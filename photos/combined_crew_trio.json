@@ -1,0 +1,41 @@
+{
+	"generation_id": "COMBINED-TRIO-004",
+	"project": "Adalympics-P2: Diverse Whaling Crew",
+	"target_engine": "Nano Banana / Flux 2 / Midjourney V8",
+	"aspect_ratio": "4:5 (Cabinet Card)",
+	"historical_context": {
+		"era": "Circa 1885",
+		"location": "Deck of a wooden whaling ship, coastal New England",
+		"description": "A rare group portrait showing the diverse origins of a single whaling crew."
+	},
+	"subjects": [
+		{
+			"origin": "New Bedford",
+			"role": "Seaman",
+			"traits": "21yo, light skin, striking blue eyes, messy black hair, rough wool peacoat"
+		},
+		{
+			"origin": "Rochester",
+			"role": "3rd Mate",
+			"traits": "21yo, light skin, brown hair, black eyes, officer cap, holding brass sextant"
+		},
+		{
+			"origin": "Azores",
+			"role": "Boatsteerer",
+			"traits": "20yo, dark skin, dark eyes, dark hair, linen shirt, holding a toggle-iron harpoon"
+		}
+	],
+	"cinematography": {
+		"camera": "Large format bellows camera, Petzval lens",
+		"lighting": "Natural daylight, soft shadows, realistic skin oil reflections",
+		"framing": "Three-quarter length group portrait, standing side-by-side"
+	},
+	"master_prompt": "A genuine, museum-quality 1885 Cabinet Card photograph of three whaling crew members standing together on a ship's deck. In the center is a 21-year-old 3rd Mate from Rochester, neatly groomed with brown hair and sharp black eyes, wearing a captain's cap and holding a tarnished brass sextant. To his left stands a 21-year-old Seaman from New Bedford, characterized by striking blue eyes and messy black hair under a rough wool cap. To the right is a 20-year-old Portuguese Boatsteerer from the Azores, his dark skin deeply tanned and glistening, holding an iron harpoon. The image is an authentic albumen print with a warm sepia-yellow tone and subtle silver mirroring in the dark areas. At the bottom of the thick cardboard margin, there is realistic, slightly faded handwritten ink cursive text that reads: 'Crew of the Bark Wanderer - 1885'. The photo exhibits natural age-related foxing, micro-cracks, and uneven development. No digital artifacts, completely unposed and gritty.",
+	"negative_prompt": "ai-generated, digital art, 3d, rendering, smooth skin, symmetrical faces, modern handwriting, typeface, clean clothes, studio lighting, plastic, vibrant colors, sharpened, watermark",
+	"parameters": {
+		"stylize": 350,
+		"chaos": 10,
+		"weird": 15,
+		"resolution": "native 2K"
+	}
+}
