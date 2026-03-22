@@ -1,0 +1,3459 @@
+city,country,count
+New Bedford,Unknown,2110
+Null,Null,1388
+New London,USA,1264
+New Bedford,USA,1117
+New York,USA,592
+New York,Unknown,569
+"New Bedford, Ma",Unknown,376
+Boston,Unknown,372
+Fairhaven,Unknown,320
+Dartmouth,Unknown,314
+New London,Unknown,313
+Groton,USA,280
+Germany,Unknown,264
+Brava,Unknown,260
+Stonington,USA,259
+Nantucket,Unknown,211
+Azores,Unknown,197
+Boston,USA,188
+Fayal,Unknown,185
+Westport,Unknown,178
+Fairhaven,USA,177
+Unknown,USA,173
+Rochester,Unknown,169
+Cape Verde,Unknown,163
+Philadelphia,Unknown,160
+Dartmouth,USA,159
+Salem,USA,147
+Tiverton,Unknown,140
+Edgartown,Unknown,136
+Tiverton,USA,133
+Unknown,Unknown,132
+Norwich,USA,122
+Fair Haven,USA,112
+Montville,USA,108
+Westport,USA,104
+Nantucket,USA,102
+New York City,Unknown,100
+Philadelphia,USA,98
+Waterford,USA,98
+New London,Portugal,97
+Wareham,Unknown,96
+Tisbury,USA,93
+Mattapoisett,Unknown,90
+Falmouth,Unknown,89
+Marion,Unknown,87
+Saint Helena,Unknown,82
+Flores,Unknown,81
+"Pico, Azores",Unknown,79
+Chilmark,Unknown,74
+Fall River,Unknown,69
+Tisbury,Unknown,69
+Rochester,USA,68
+"Boston, Ma",Unknown,65
+"Sao Jorge, Azores",Unknown,65
+Baltimore,Unknown,64
+Providence,Unknown,61
+"Brava, Cape Verde",Unknown,59
+Preston,USA,54
+Hartford,USA,51
+Albany,USA,50
+New Bedford,Portugal,49
+Fogo,Unknown,48
+Ireland,Unknown,46
+"Santo Antao, Cape Verde",Unknown,45
+"Rochester, Ma",Unknown,45
+"Sao Nicolau, Cape Verde",Unknown,42
+Freetown,Unknown,40
+Lyme,USA,40
+England,Unknown,39
+Acushnet,Unknown,39
+"Rochester, Ny",Unknown,39
+"Albany, Ny",Unknown,39
+Southampton,USA,39
+Gay Head,Unknown,38
+"Providence, Ri",Unknown,38
+Middleborough,Unknown,38
+Edgartown,USA,38
+Unknown,Portugal,38
+Providence,USA,37
+Taunton,Unknown,36
+Westerly,USA,36
+Sippican (Marion),Unknown,36
+Fall River,USA,35
+Baltimore,USA,35
+Guam,Unknown,35
+Lowell,Unknown,34
+Plymouth,Unknown,34
+Hawaii,Unknown,34
+"Sao Miguel, Azores",Unknown,33
+Chilmark,USA,33
+Hartford,Unknown,32
+Albany,Unknown,32
+Charlestown,USA,31
+Brooklyn,USA,31
+Scotland,Unknown,30
+"New York, Ny",Unknown,30
+Portugal,Unknown,30
+West Indies,Unknown,30
+Portland,Unknown,30
+"Troy, Ny",Unknown,30
+"Tisbury, Ma",Unknown,30
+"Tiverton, Ri",Unknown,29
+Brooklyn,Unknown,29
+"Newark, Nj",Unknown,29
+"New London, Ct",Unknown,29
+"Brooklyn, Ny",Unknown,28
+Sandwich,Unknown,28
+New London,Great Britain,28
+New Bedford,Foreign,28
+Newport,Unknown,27
+New Orleans,Unknown,27
+"Wareham, Ma",Unknown,26
+Troy,USA,26
+Long Island,USA,25
+"Sao Taigo, Cape Verde",Unknown,24
+Salem,Unknown,24
+Freetown,USA,24
+"Philadelphia, Pa",Unknown,23
+"Dartmouth, Ma",Unknown,23
+Springfield,Unknown,23
+Sag Harbor,USA,23
+"Fairhaven, Ma",Unknown,23
+Buffalo,Unknown,23
+"Fayal, Azores",Unknown,23
+"Westport, Ma",Unknown,22
+"Portland, Me",Unknown,22
+Lynn,Unknown,22
+Worcester,Unknown,22
+"Southampton, Ny",Unknown,22
+Troy,Unknown,22
+Little Compton,USA,22
+Little Compton,Unknown,21
+New York,Great Britain,21
+"New London, Ct",USA,21
+New Haven,USA,21
+Sandwich,USA,21
+New Haven,Unknown,20
+"Falmouth, Ma",Unknown,20
+"Bangor, Me",Unknown,20
+"Easton, Pa",Unknown,20
+Honolulu,Unknown,20
+Southampton,Unknown,20
+Charlestown,Unknown,20
+Martha'S Vineyard,Unknown,20
+Ledyard,USA,20
+Hudson,USA,20
+New Bedford,Great Britain,20
+"Syracuse, Ny",Unknown,19
+New Jersey,Unknown,19
+Barnstable,Unknown,19
+Portland,USA,18
+Provincetown,Unknown,18
+Lebanon,USA,18
+Colchester,USA,18
+Springfield,USA,18
+Windham,USA,18
+Eastport,USA,18
+"Lynn, Ma",Unknown,17
+"Marion, Ma",Unknown,17
+Taunton,USA,17
+Roxbury,Unknown,16
+"Washington, Dc",Unknown,16
+New Hampshire,Unknown,15
+"Germantown, Pa",Unknown,15
+Tahiti,Unknown,15
+Manila,Unknown,15
+Newark,Unknown,15
+"Buffalo, Ny",Unknown,15
+New Bedford,United States Of America,15
+Canada,Unknown,14
+Barbados,Unknown,14
+"Little Compton, Ri",Unknown,14
+"Warwick, Ri",Unknown,14
+"Concord, Nh",Unknown,14
+Corvo,Unknown,14
+Syracuse,Unknown,14
+Griswold,USA,14
+Middletown,USA,14
+?,USA,14
+New Bedford,,14
+Chile,Unknown,13
+"Fall River, Ma",USA,13
+Chicago,Unknown,13
+Vineyard Haven,Unknown,13
+"Hartford, Ct",Unknown,13
+Newark,USA,13
+Rhode Island,USA,13
+"Utica, Ny",Unknown,13
+Norwich,Unknown,13
+Portsmouth,Unknown,13
+Plymouth,USA,13
+Mashpee,Unknown,13
+Malay,Unknown,13
+New London,Europe,13
+Switzerland,Unknown,12
+Pawtucket,Unknown,12
+"Burlington, Vt",Unknown,12
+"Baltimore, Md",Unknown,12
+North Stonington,USA,12
+Stonington,Unknown,12
+Pennsylvania,USA,12
+"Roxbury, Ma",Unknown,12
+Graciosa,Unknown,12
+France,Unknown,12
+Mahe,Unknown,12
+Portsmouth,USA,12
+Wareham,USA,12
+New Bedford,Massachusetts,12
+Dighton,Unknown,12
+"Fogo, Cape Verde",Unknown,12
+South Hampton,USA,12
+"Calais, Me",Unknown,11
+Pennsylvania,Unknown,11
+Groton,Unknown,11
+"Bristol, Ri",Unknown,11
+Poughkeepsie,Unknown,11
+Newburyport,Unknown,11
+"Richmond, Va",Unknown,11
+Fayal,Western Islands,11
+Unknown,Great Britain,11
+Buffalo,USA,11
+"Patterson, Nj",Unknown,11
+Vineyard,USA,11
+"Lowell, Ma",Unknown,11
+New London,Sandwich Islands,11
+"Portsmouth, Nh",Unknown,10
+"Nantucket, Ma",Unknown,10
+"Salem, Ma",Unknown,10
+"Maio, Cape Verde",Unknown,10
+South Dartmouth,Unknown,10
+"Bath, Me",Unknown,10
+Charleston,USA,10
+South Kingstown,USA,10
+Norfolk,USA,10
+Massachusetts,USA,10
+Concord,Unknown,10
+Bangor,Unknown,10
+"Newport, Ri",Unknown,10
+Newport,USA,10
+Newburgh,USA,10
+"Newburgh, Ny",Unknown,10
+Bridgeport,USA,10
+Waterford,Unknown,10
+Bristol,Unknown,10
+Utica,Unknown,10
+Roxbury,USA,9
+Cambridge,Unknown,9
+"Springfield, Ma",Unknown,9
+Haverhill,Unknown,9
+Prussia,Unknown,9
+"Fall River, Ma",Unknown,9
+Connecticut,USA,9
+Long Island,Unknown,9
+Somerset,USA,9
+Chatham,USA,9
+"Wilmington, De",Unknown,9
+New Port,USA,9
+Glastonbury,USA,9
+Marthas Vineyard,USA,9
+"Warren, Ri",Unknown,9
+Sag Harbor,Unknown,9
+Marblehead,USA,9
+Syracuse,USA,8
+Massachusetts,Unknown,8
+"Charlestown, Ma",Unknown,8
+Manchester,Unknown,8
+"New Haven, Ct",Unknown,8
+Brockton,Unknown,8
+Jersey City,Unknown,8
+"Chicago, Il",Unknown,8
+Brazil,Unknown,8
+Portugal,Portugal,8
+Burlington,Unknown,8
+Madeira,Unknown,8
+Rarotonga,Unknown,8
+"Pittsburgh, Pa",Unknown,8
+West Tisbury,Unknown,8
+Bermuda,Unknown,8
+"Norfolk, Va",Unknown,8
+China,Unknown,8
+Pico,Azores (Portugal),8
+New Orleans,USA,8
+Hope Island,Unknown,8
+"Freetown, Ma",Unknown,8
+"Groton, Ct",Unknown,8
+Annabon,Unknown,8
+"Oswego, Ny",Unknown,8
+Edgarton,USA,8
+"Manchester, Nh",Unknown,8
+Flores,Western Islands,8
+"Norwich, Ct",Unknown,8
+"Claremont, Nh",Unknown,8
+"Pawtucket, Ri",Unknown,8
+Middleborough,USA,8
+Coventry,USA,8
+"Auburn, Ny",Unknown,8
+Lisbon,Unknown,8
+Andover,Unknown,8
+[Portland],USA,8
+Holmes Hole,USA,8
+Connecticut,Unknown,7
+Williamsburg,Unknown,7
+"Taunton, Ma",Unknown,7
+"Plymouth, Ma",Unknown,7
+Halifax,Unknown,7
+Warren,Unknown,7
+North Bridgewater,Unknown,7
+"Cambridge, Ma",Unknown,7
+"Smithfield, Ri",Unknown,7
+Cleveland,Unknown,7
+"Hudson, Ny",Unknown,7
+Maine,Unknown,7
+"Keene, Nh",Unknown,7
+New Jersey,USA,7
+Scituate,USA,7
+Eastport,Unknown,7
+Middleboro,Unknown,7
+Saint Mary'S,Unknown,7
+Maryland,Unknown,7
+"Sandwich, Ma",Unknown,7
+Vermont,Unknown,7
+"Middleborogh, Ma",Unknown,7
+"Charleston, Sc",Unknown,7
+Lowell,USA,7
+Poughkeepsie,USA,7
+Greenwich,USA,7
+Germantown,Unknown,7
+Rhode Island,Unknown,7
+"Chilmark, Ma",Unknown,7
+Bridgewater,Unknown,7
+Utica,USA,7
+Bridgeport,Unknown,7
+Fair Haven,Portugal,7
+"China, Me",Unknown,7
+Falmouth,USA,7
+Oahu,Unknown,7
+Bristol,USA,7
+New York,Sweden,7
+Patterson,USA,7
+Attleboro,Unknown,7
+Westfield,USA,7
+Milford,USA,7
+Unknown,Hawaiian Is,7
+Woodstock,Unknown,7
+New York,Europe,7
+Hudson,Unknown,6
+Jamaica,Unknown,6
+Norway,Unknown,6
+"Saint John, New Brunswick",Unknown,6
+Lawrence,Unknown,6
+"Halifax, Nova Scotia",Unknown,6
+"Worcester, Ma",Unknown,6
+"Eastport, Me",Unknown,6
+Abington,Unknown,6
+Pittsburgh,Unknown,6
+Peru,Unknown,6
+Oxford,USA,6
+"Stonington, Ct",USA,6
+Essex,USA,6
+East Bridgewater,Unknown,6
+Woonsocket,Unknown,6
+Denmark,Unknown,6
+Washington,Unknown,6
+London,Unknown,6
+Exeter,USA,6
+"Flores, Azores",Unknown,6
+Voluntown,USA,6
+Buena Vista,Unknown,6
+Worcester,USA,6
+Easton,Unknown,6
+"Haverhill, Ma",Unknown,6
+Santo Antao,Unknown,6
+"Lyons, Ny",Unknown,6
+Liverpool,Great Britain,6
+North Adams,Unknown,6
+"Norwalk, Ct",Unknown,6
+Haddam,USA,6
+Bravo,Cape De Verde,6
+Long Plain,Unknown,6
+Lisbon,USA,6
+Kingston,USA,6
+Hebron,USA,6
+Durham,USA,6
+Mystic,USA,6
+East Hampton,USA,6
+Bridgewater,USA,6
+"Rutland, Vt",Unknown,6
+Dartmouth,Us,6
+East Greenwich,USA,5
+Manchester,USA,5
+Cincinnati,Unknown,5
+Sweden,Unknown,5
+Harwich,Unknown,5
+Holmes Hole,Unknown,5
+Lakeville,Unknown,5
+Brewster,Unknown,5
+"Ithaca, Ny",Unknown,5
+"Sag Harbor, Ny",Unknown,5
+Auburn,Unknown,5
+Cambridgeport,Unknown,5
+Waterbury,Unknown,5
+Wilmington,Unknown,5
+Detroit,Unknown,5
+Watertown,Unknown,5
+Bridgehampton,Unknown,5
+Westerly,Unknown,5
+Pittsfield,Unknown,5
+Gloucester,Unknown,5
+Virginia,Unknown,5
+Africa,Unknown,5
+"Montpelier, Vt",Unknown,5
+Prince Edward Island,Unknown,5
+"Binghamton, Ny",Unknown,5
+"Bridgeport, Ct",Unknown,5
+Russia,Unknown,5
+Dedham,Unknown,5
+Huntington,USA,5
+Friendly Isl.,Unknown,5
+"London, England",Unknown,5
+North Tisbury,Unknown,5
+Amsterdam,Unknown,5
+Saint Lucia,Unknown,5
+"Schenectady, Ny",Unknown,5
+Harvard,Unknown,5
+"Trenton, Nj",Unknown,5
+"Poughkeepsie, Ny",Unknown,5
+"Groton, Ct",USA,5
+Yarmouth,Unknown,5
+"Middletown, Ct",Unknown,5
+Swansey,USA,5
+Litchfield,Unknown,5
+"Jersey City, Nj",Unknown,5
+Franklin,USA,5
+"Augusta, Me",Unknown,5
+"Reading, Pa",Unknown,5
+Bolton,USA,5
+Montgomery,USA,5
+Plainfield,USA,5
+"Lawrence, Ma",Unknown,5
+Glasgow,Unknown,5
+"Little Falls, Ny",Unknown,5
+New Hampshire,USA,5
+"Fishkill, Ny",Unknown,5
+Nantucket,Foreign,5
+Anno Bona,Unknown,5
+"Dutchess County, Ny",Unknown,5
+New Brunswick,USA,5
+Warren County,Unknown,5
+Hallowell,USA,5
+Tiverton,Rode Island,5
+Brava,Portugal,5
+Marblehead,Unknown,4
+Somerville,Unknown,4
+"Lakeville, Ma",Unknown,4
+"Farmington, Nh",Unknown,4
+Saint Louis,Unknown,4
+"Edgartown, Ma",Unknown,4
+Rockland,Unknown,4
+San Francisco,Unknown,4
+Woburn,Unknown,4
+"Derby, Ct",Unknown,4
+"Waldoboro, Me",Unknown,4
+"Saratoga, Ny",Unknown,4
+"Saint Louis, Mo",Unknown,4
+Mansfield,Unknown,4
+Savannah,Unknown,4
+"Danbury, Ct",Unknown,4
+Exeter,Unknown,4
+Bucks Co.,USA,4
+Smithfield,USA,4
+Farmington,USA,4
+New London,Foreign,4
+Western Islands,Portugal,4
+Jersey City,USA,4
+Augusta,USA,4
+"Watertown, Ny",Unknown,4
+"Reading, Ct",Unknown,4
+Washington,USA,4
+"Flushing, Ny",Unknown,4
+"Mauch Chunk, Pa",Unknown,4
+Raynham,Unknown,4
+"Louisville, Ky",Unknown,4
+"Stonington, Ct",Unknown,4
+"Middletown, Ny",Unknown,4
+"Honesdale, Pa",Unknown,4
+"Woonsocket, Ri",Unknown,4
+Weymouth,Unknown,4
+Nova Scotia,Unknown,4
+Saint John,Unknown,4
+"Waterbury, Ct",Unknown,4
+Hungary,Unknown,4
+Portuguese,Unknown,4
+Dighton,USA,4
+Schenectady,USA,4
+Rome,USA,4
+Talcahuano,Unknown,4
+"Limerick, Me",Unknown,4
+California,Unknown,4
+Vernon,USA,4
+Middlebury,USA,4
+Virginia,USA,4
+Brooklin,Unknown,4
+Copenhagen,Unknown,4
+Conway,Unknown,4
+Charleston,Unknown,4
+America,Unknown,4
+Harrisburg,USA,4
+Brookfield,USA,4
+Patterson,Unknown,4
+Southold,USA,4
+Derby,USA,4
+"Mendon, Ma",Unknown,4
+"Belfast, Me",Unknown,4
+"Jamaica, Ny",Unknown,4
+"Elizabethtown, Nj",Unknown,4
+"Dover, Nh",Unknown,4
+Saint Vincent,Unknown,4
+"Cleveland, Oh",Unknown,4
+Trenton,USA,4
+Yarmouth,USA,4
+Swanzey Swansea),USA,4
+Bozrah,USA,4
+New London,Germany,4
+Monmouth,USA,4
+Bolton,Unknown,4
+Belfast,Unknown,4
+"New Brunswick, Nj",Unknown,4
+"Sao Tiago, Cape Verde",Unknown,4
+Winchester,Unknown,4
+"Detroit, Mi",Unknown,4
+Warwick,USA,4
+Hopkinton,USA,4
+Hadley,USA,4
+"Waterville, Me",Unknown,4
+Fitchburg,Unknown,4
+Woods Hole,Unknown,4
+Montgomery Co.,USA,4
+Bourbon,Unknown,4
+Dover,Unknown,4
+"Woodstock, Vt",Unknown,4
+"Sharon, Vt",Unknown,4
+"Rome, Ny",Unknown,4
+"Dedham, Ma",Unknown,4
+"Hallowell, Me",Unknown,4
+New Bedford,Sweden,4
+Richmond,USA,4
+Alexandria,USA,4
+Salem,Great Britain,4
+Concord,USA,4
+Pawtucket,USA,4
+New London,Great Britian,4
+Oahu,Sandwich Islands,4
+"Waterbury, Vt",Unknown,4
+"Fitchburg, Ma",Unknown,4
+Louisville,USA,4
+Smithtown,USA,4
+Maine,USA,4
+Ohio,USA,4
+New Bedford,Sandwich Islands,4
+"Terceira, Azores",Unknown,4
+"Newport, Nh",Unknown,4
+Newburg,USA,4
+Litchfield,USA,4
+Newburgh,Unknown,4
+Nomansland,USA,4
+Montreal,Great Britain,4
+Usa,USA,4
+Lockport,USA,4
+"Corvo, Azores",Unknown,4
+Orurute (Raratonga),Unknown,4
+Trenton,Unknown,3
+"Chilmark, Ma",USA,3
+Hamburg,Unknown,3
+Everett,Unknown,3
+"Dorchester, Ma",Unknown,3
+Hyde Park,Unknown,3
+Brighton,Unknown,3
+Michigan,Unknown,3
+North Dartmouth,Unknown,3
+Newfoundland,Unknown,3
+"Watertown, Ma",Unknown,3
+Hampton,Unknown,3
+"Gloucester, Ma",Unknown,3
+"Chelsea, Ma",Unknown,3
+North Hampton,Unknown,3
+"Brandon, Vt",Unknown,3
+"Savannah, Ga",Unknown,3
+Norwalk,USA,3
+Ohio,Unknown,3
+Bath,USA,3
+England,Great Britain,3
+Stafford,USA,3
+Chester,USA,3
+"Wrentham, Ma",Unknown,3
+West Cambridge,Unknown,3
+Walpole,Unknown,3
+"Lewiston, Me",Unknown,3
+"Killingly, Ct",Unknown,3
+Monmouth,Unknown,3
+Hanover,Unknown,3
+"Saint Johnsbury, Vt",Unknown,3
+"Milford, De",Unknown,3
+"Batavia, Ny",Unknown,3
+Atlanta,Unknown,3
+Savage Islands,Unknown,3
+Danvers,Unknown,3
+"Manchester, England",Unknown,3
+"Liverpool, England",Unknown,3
+"Baden, Germany",Unknown,3
+Australia,Unknown,3
+Peizorn,Unknown,3
+"Saint Kitts, West Indies",Unknown,3
+"Norton, Ma",Unknown,3
+"Middletown, Ma",Unknown,3
+"Peru, South America",Unknown,3
+"Charlestown, Ny",Unknown,3
+Fayal,Azores (Portugal),3
+Amherst,USA,3
+Watertown,USA,3
+Hempstead,USA,3
+Ulster Co,USA,3
+"Catskill, Ny",Unknown,3
+New Zealand,Unknown,3
+Hom Is. Pacific Ocean,Unknown,3
+Lancaster,Unknown,3
+"Fredericksburg, Va",Unknown,3
+"Candia, Nh",Unknown,3
+"Staten Island, Ny",Unknown,3
+"Andover, Ma",Unknown,3
+Mohegan,USA,3
+Gorham,USA,3
+Lewistown,USA,3
+Weston,USA,3
+Georgetown,Unknown,3
+"Lancaster, Pa",Unknown,3
+"Dighton, Ma",Unknown,3
+"Hornsburg, Pa",Unknown,3
+"Tombez, Peru",Unknown,3
+Kingston,Unknown,3
+"Newbury, Ny",Unknown,3
+Saint Petersburg,Unknown,3
+"Natick, Ri",Unknown,3
+Dominique,Unknown,3
+"Nashua, Nh",Unknown,3
+East Boston,Unknown,3
+"New Portland, Me",Unknown,3
+"Harrison, Me",Unknown,3
+Great Barrington,Unknown,3
+Milford,Unknown,3
+Canandaigua,USA,3
+White Hall,USA,3
+Greenfield,USA,3
+"Bath, Ma",Unknown,3
+Hoboken,Unknown,3
+Brandon,Unknown,3
+"Clinton, Ma",Unknown,3
+Newtown,USA,3
+Lexington,Unknown,3
+"Farmington, Me",Unknown,3
+"Westmoreland, Nh",Unknown,3
+Flores,Western Island,3
+"North Adams, Ma",Unknown,3
+Richmond,Unknown,3
+"Zanesville, Oh",Unknown,3
+Swanzey,USA,3
+Warren,USA,3
+Liverpool,Unknown,3
+Unknown,Foreign,3
+Middleton,USA,3
+Dorchester,USA,3
+Lancaster,USA,3
+Killingly,USA,3
+Whitehall,Unknown,3
+Wrentham,Unknown,3
+"Southbridge, Ma",Unknown,3
+Dublin,Unknown,3
+Ogdensburg,Unknown,3
+"East Windsor, Ct",Unknown,3
+"East Hampton, Ct",Unknown,3
+"Oxford, Ma",Unknown,3
+"Harrisburg, Pa",Unknown,3
+"Scituate, Ri",Unknown,3
+"Quincy, Ma",Unknown,3
+"Lyme, Ct",Unknown,3
+"Wheeling, Va",Unknown,3
+Chatham,Unknown,3
+Windsor,Unknown,3
+Randolph,Unknown,3
+Mauritius,Unknown,3
+Jago,Unknown,3
+"Cork, Ireland",Unknown,3
+"Kingston, Ri",Unknown,3
+Granby,Unknown,3
+Cleveland,USA,3
+"Lubec, Me",Unknown,3
+"Champlain, Ny",Unknown,3
+"Needham, Ma",Unknown,3
+Berlin,Unknown,3
+"Saint Eustatius, West Indies",Unknown,3
+Stoneham,Unknown,3
+"Charleston, Ma",Unknown,3
+"Burrillville, Ri",Unknown,3
+Callao,Unknown,3
+East Indies,Unknown,3
+"Porto Praia, Cape Verde",Unknown,3
+Greenville,USA,3
+Athens,USA,3
+Granby,USA,3
+Dover,USA,3
+Montreal,Unknown,3
+Montgomery,Unknown,3
+Hampton,USA,3
+"Dover, Me",Unknown,3
+"Coxsackie, Ny",Unknown,3
+Bath,Unknown,3
+Newburyport,USA,3
+Waltham,Unknown,3
+New Britain,Unknown,3
+Owego,Unknown,3
+"Bennington, Vt",Unknown,3
+"Greenport, Ny",Unknown,3
+Strong'S Island,Unknown,3
+"Derby, Vt",Unknown,3
+Gloucester,USA,3
+Hyannis,Unknown,3
+"Yonkers, Ny",Unknown,3
+"Derry, Nh",Unknown,3
+Brookhaven,USA,3
+Singapore,Unknown,3
+"Belgrade, Me",Unknown,3
+Wethersfield,USA,3
+"Pittsfield, Ma",Unknown,3
+"Salem, Ct",USA,3
+?,?,3
+New York Ny,Unknown,3
+Panama,Unknown,3
+West Falmouth,Unknown,3
+Wilmington,USA,3
+"Bridgeport, Ct",USA,3
+Stockbridge,USA,3
+Petersburg,USA,3
+"Williamsburg, Ny",Unknown,3
+"New Rochelle, Ny",Unknown,3
+?,Portugal,3
+Lyons,USA,3
+Newcastle,USA,3
+"Sao Vicente, Cape Verde",Unknown,3
+Westboro,Unknown,3
+Bravo,Unknown,3
+Unknown,Hawaii ?,3
+Unknown,France,3
+"South Boston, Ma",Unknown,3
+Marlborough,USA,3
+Windsor,USA,3
+"Swansea, Ma",Unknown,3
+East Hartford,USA,3
+"Lee, Ny",Unknown,3
+Stonington,Great Britain,3
+New Britain,USA,3
+Milton,Unknown,3
+Philippine Islands,Unknown,3
+New Bedford,United Sates,3
+Belfast,USA,3
+Unknown,United States Of America,3
+Fairhaven,United States Of America,3
+Boston Mass,USA,3
+Cranston,USA,2
+Lynn,USA,2
+Martha'S Vineyard,USA,2
+"Montreal, Canada",Unknown,2
+Chicopee,Unknown,2
+"Somerville, Ma",Unknown,2
+Melrose,Unknown,2
+United States,Unknown,2
+Schenectady,Unknown,2
+"Glens Falls, Ny",Unknown,2
+"Peterborough, Nh",Unknown,2
+India,Unknown,2
+Gongona,Unknown,2
+"Stoughton, Ma",Unknown,2
+"Shirley, Ma",Unknown,2
+"East Boston, Ma",Unknown,2
+Greenfield,Unknown,2
+"Yorkshire, England",Unknown,2
+"Greenpoint, Ny",Unknown,2
+"Brockton, Ma",Unknown,2
+"Hardwick, Vt",Unknown,2
+Antwerp,Unknown,2
+Alexandria,Unknown,2
+"Vershire, Vt.",Unknown,2
+Vershire,Unknown,2
+"Norway, Mn",Unknown,2
+"Scruple, Ny",Unknown,2
+"Franklin, Ny",Unknown,2
+"Lincoln, Me",Unknown,2
+Franklin,Unknown,2
+Sterling,Unknown,2
+"Shrewsbury, Ma",Unknown,2
+"Pottsville, Pa",Unknown,2
+Stonington,Portugal,2
+Rutland,USA,2
+Stonington,Ireland,2
+Yonkers,USA,2
+Germany,Germany,2
+Rhinebeck,Unknown,2
+"South Glastonbury, Ct",Unknown,2
+Calais,Unknown,2
+"West Cambridge, Ma",Unknown,2
+"Gorham, Nh",Unknown,2
+"Biddeford, Me",Unknown,2
+"Bethel, Me",Unknown,2
+Saint Croix,Unknown,2
+Gibralter,Unknown,2
+Elizabeth City,Unknown,2
+Lee,Unknown,2
+Templeton,Unknown,2
+East Manchester,Unknown,2
+South Hadley,Unknown,2
+"Lewiston Falls, Me",Unknown,2
+"New Gloucester, Me",Unknown,2
+Java,Unknown,2
+"North Kingston, Ri",Unknown,2
+"Mechanicsville, Ny",Unknown,2
+Upolu,Unknown,2
+"Gardiner, Me",Unknown,2
+North Wrentham,Unknown,2
+"Gorham, Ny",Unknown,2
+"Mystic, Ct",Unknown,2
+"Northampton, Ma",Unknown,2
+Hobart Town,Unknown,2
+Carver,Unknown,2
+"Bloomfield, Nj",Unknown,2
+Chelsea,Unknown,2
+"Hanover, Ma",Unknown,2
+"Phillips, Me",Unknown,2
+"Mattapoisett, Ma",Unknown,2
+"Sippican (Marion), Ma",Unknown,2
+Barre,USA,2
+North Andover,USA,2
+Mansfield,USA,2
+Waterbury,USA,2
+Munson,USA,2
+Monroe Co.,USA,2
+Kinderhook,USA,2
+"Easthampton, Ny",USA,2
+"Philadelphia, Pa",USA,2
+Lancaster Co.,USA,2
+"Lebanon, Nh",Unknown,2
+"Acton, Ma",Unknown,2
+South Reading,Unknown,2
+Hanson,Unknown,2
+Delaware,USA,2
+"Frankfort, Me",Unknown,2
+Spain,Unknown,2
+Kennebunk,Unknown,2
+Fair Haven,Unknown,2
+"Schoharie, Ny",Unknown,2
+"Holton, Me",Unknown,2
+"Russia, Ny",Unknown,2
+"Winchester, Nh",Unknown,2
+"Walton, Ny",Unknown,2
+"Frankfort, Pa",Unknown,2
+"Starks, Me",Unknown,2
+"Naugatuck, Ct",Unknown,2
+"Georgetown, Ny",Unknown,2
+Wayne,Unknown,2
+Pawcatuck,USA,2
+Keene,USA,2
+Cincinatti,USA,2
+Hillsdale,USA,2
+New London,Usa (Naturalized),2
+St. Johns,USA,2
+Swanzey,Unknown,2
+Norton,Unknown,2
+Huntington,Unknown,2
+"Fairfield, Ct",Unknown,2
+"Amsterdam, Ny",Unknown,2
+Swansea,Unknown,2
+"Clinton, Ny",Unknown,2
+"East Hampton, Ny",Unknown,2
+West Troy,Unknown,2
+Peekskill,Unknown,2
+Bucksport,Unknown,2
+"Whatley, Ma",Unknown,2
+Farmington,Unknown,2
+Durham,Unknown,2
+Toronto,Unknown,2
+"Dorset, Vt",Unknown,2
+"Holstein, Germany",Unknown,2
+Reading,Unknown,2
+Enfield,Unknown,2
+"South Kingston, Ri",Unknown,2
+"Springfield, Il",Unknown,2
+"Upper Fall River, Ma",Unknown,2
+"Lanesborough, Ma",Unknown,2
+Norristown,Unknown,2
+Hellentown,Unknown,2
+Poland,Unknown,2
+"Springport, Ny",Unknown,2
+"Onandaga, Ny",Unknown,2
+"Clyde, Ny",Unknown,2
+Dracut,Unknown,2
+Staten Island,Unknown,2
+"Port Richmond,Staten Island",Unknown,2
+"Pomfret, Ct",Unknown,2
+"Nassau, Ny",Unknown,2
+Pottsville,Unknown,2
+"Concord, Ma",Unknown,2
+Newton,Unknown,2
+Briton,Unknown,2
+Middletown,Unknown,2
+New York,Germany,2
+Bridgehampton,USA,2
+New York,France,2
+Salmon Falls,USA,2
+Stillwater,USA,2
+Branford,USA,2
+Bucksport,USA,2
+Manchester,Great Britain,2
+"Copenhagen, Denmark",Unknown,2
+Ellsworth,Me.,2
+Fairhaven,Portugal,2
+Fairhaven,Massachusetts,2
+New Bedford,Maine,2
+Smithfield,Unknown,2
+North Yarmouth,Unknown,2
+Fair Haven,Great Britain,2
+Maryland,USA,2
+Hempstead,Unknown,2
+Grafton,Unknown,2
+Cherry Valley,Unknown,2
+Gaines,Unknown,2
+East Greenwich,Unknown,2
+"Camden, Nj",Unknown,2
+Yonkers,Unknown,2
+Illinois,Unknown,2
+"Athol, Ma",Unknown,2
+Cape Town,Unknown,2
+"Pine Plains, Ny",Unknown,2
+"Portland, Ct",Unknown,2
+Raynham,USA,2
+Elizabeth,Unknown,2
+Westmoreland,N.H.,2
+Boston,Mass.,2
+"Milo, Ny",Unknown,2
+"New Bern, Nc",Unknown,2
+"Herkimer, Ny",Unknown,2
+"Hackensack, Nj",Unknown,2
+Batavia,Unknown,2
+"Fairfield, Vt",Unknown,2
+Mashpee,USA,2
+Coast Of Africa,Unknown,2
+Ipswich,Unknown,2
+Pembroke,USA,2
+Bristol,Great Britain,2
+Pembroke,Unknown,2
+Elizabethtown,USA,2
+Mendon,USA,2
+New London,Ireland,2
+Preston,Unknown,2
+Ashford,USA,2
+Unknown,Sweden,2
+East Chester,USA,2
+Bethlehem,USA,2
+Detroit,USA,2
+Mohawk,USA,2
+Red Hook,USA,2
+"New Brunswick, Nj",USA,2
+Eastown,Unknown,2
+Warwick,Unknown,2
+"Orleans, Ma",Unknown,2
+Montpelier,Unknown,2
+"Chelsea, Vt",Unknown,2
+Sunbury,Unknown,2
+"Hartford, Me",Unknown,2
+"Northfield, Ma",Unknown,2
+"Morristown, Ny",Unknown,2
+"Coventry, Ct",Unknown,2
+Pocasset,Unknown,2
+"Ware, Ma",Unknown,2
+"Piermont, Ny",Unknown,2
+"Charlestown, Sc",Unknown,2
+"Westerly, Ri",Unknown,2
+"New Orleans, La",Unknown,2
+Gardner,Unknown,2
+"Copake, Ny",Unknown,2
+New Brunswick,Unknown,2
+Munroe,Unknown,2
+Amherst,Unknown,2
+New Rochelle,Unknown,2
+Pomfret,Unknown,2
+Annapolis,Unknown,2
+New London,Naturalized,2
+Fogo,Cape De Verde,2
+Pittsburgh,USA,2
+Windham,Unknown,2
+Catskill,USA,2
+"Kirkville, Ny",Unknown,2
+Bremen,Unknown,2
+Saint Maria,Unknown,2
+Brookfield,Unknown,2
+"Paita, Peru",Unknown,2
+"Cranston, Ri",Unknown,2
+"Princeton, Nj",Unknown,2
+"Milwaukee, Wi",Unknown,2
+Londonderry,Unknown,2
+Cocksaxie,USA,2
+Brunswick,USA,2
+Southwick,USA,2
+Millbury,USA,2
+Noank,USA,2
+"New London, Ct",Germany,2
+Dutchess Co.,USA,2
+Augusta,Unknown,2
+Saint Thomas,Unknown,2
+Dorchester,Unknown,2
+Swansey ?,Unknown,2
+Wilmington Nc,USA,2
+Brunswick,Unknown,2
+"Bristol, Vt",Unknown,2
+"Dexter, Me",Unknown,2
+Holden,Unknown,2
+Harrisburg,Unknown,2
+"Madrid, Ny",Unknown,2
+"Derby, Nh",Unknown,2
+"Guadeloupe, W. I.",Unknown,2
+"New Paltz, Ny",Unknown,2
+"Whitingham, Vt",Unknown,2
+Plainfield,Unknown,2
+Lyman,Unknown,2
+Gorham,Unknown,2
+Freeport,Unknown,2
+Rehoboth,Unknown,2
+"Seneca, Ny",Unknown,2
+South Kingston,Unknown,2
+South Abington,Unknown,2
+"Westchester, Ny",Unknown,2
+"Ogdensburg, Ny",Unknown,2
+"Newcastle, Pa",Unknown,2
+"Madison, Wi",Unknown,2
+"Elmira, Ny",Unknown,2
+Cohasset,Unknown,2
+Norwalk,Unknown,2
+Havre De Grace,Unknown,2
+"Gilmanton, Nh",Unknown,2
+"Canaan, Ct",Unknown,2
+Petersburg,Unknown,2
+"Scriba, Ny",Unknown,2
+Stoughton,Unknown,2
+"Stoneham, Ma",Unknown,2
+"Clarendon, Vt",Unknown,2
+Allentown,Unknown,2
+Binghamton,Unknown,2
+"Essex, Ny",Unknown,2
+"Westfield, Ny",Unknown,2
+"Bourbon, France",Unknown,2
+"Hoboken, Nj",Unknown,2
+"Newcastle, Me",Unknown,2
+"Windsor, Ct",Unknown,2
+"Great Barrington, Ma",Unknown,2
+"Conway, Nh",Unknown,2
+"Castine, Me",Unknown,2
+Brandywine,Unknown,2
+Ashton,Unknown,2
+Newyork,USA,2
+Oyster Bay,USA,2
+"Southold, Ny",USA,2
+Cheshire,USA,2
+Newbern,USA,2
+Willimantic,USA,2
+Galena,USA,2
+Ipswich,USA,2
+Salem,France,2
+Salem,British,2
+"South Adams, Ma",Unknown,2
+Canary Islands,Unknown,2
+West Chester,Unknown,2
+"Geneva, Ny",Unknown,2
+Bavaria,Unknown,2
+Danbury,USA,2
+Brooklin,USA,2
+Bona Vista,Cape Verde,2
+"Wellsville, Oh",Unknown,2
+"Fort Covington, Ny",Unknown,2
+West Greenwich,USA,2
+Prospect,USA,2
+Columbia,USA,2
+Orleans,USA,2
+Burlington,USA,2
+Sturbridge,USA,2
+New London,Spain,2
+New York City,USA,2
+"Glastonbury, Ct",Unknown,2
+"Easthampton, Ny",Unknown,2
+"Millbury, Ma",Unknown,2
+"East Bennington, Vt",Unknown,2
+"Westport, Ct",Unknown,2
+"Coventry, Vt",Unknown,2
+"Whitman, Ma",Unknown,2
+Beverly,Unknown,2
+Bedford,USA,2
+New London,Sweden,2
+Western Islands,?,2
+Groton,Portugal,2
+Madison Co.,USA,2
+"Babylon, Ny",Unknown,2
+"Fort Wayne, In",Unknown,2
+"Brunswick, Me",Unknown,2
+"Newton, Ma",Unknown,2
+South Danvers,Unknown,2
+"Kingston, Ny",Unknown,2
+"Danvers, Ma",Unknown,2
+Kortright,USA,2
+Frankfort,USA,2
+Shoreham,USA,2
+Stonington,Great Britian,2
+Stamford,USA,2
+"Milford, Nh",Unknown,2
+"Westhaven, Vt",Unknown,2
+Pittsfield,USA,2
+"Middleboro, Ma",Unknown,2
+"Jaffrey, Nh",Unknown,2
+New London,Denmark,2
+St. George,Azores (Portugal),2
+Belchertown,USA,2
+Lancaster,Great Britain,2
+Canaan,USA,2
+"Fairfield, Somerset County, Me",Unknown,2
+"Brunswick, Nj",Unknown,2
+Foreign,Foreign,2
+"Foxborough, Ma",Unknown,2
+New Lebanon,USA,2
+England,USA,2
+Germantown,USA,2
+"Saugerties, Ny",Unknown,2
+"Green Point, Ny",Unknown,2
+Eddington Pa,Unknown,2
+"Huntington, Ny",Unknown,2
+"Bridgehampton, Ny",Unknown,2
+"Lee, Ma",Unknown,2
+"Montgomery, Ny",Unknown,2
+"Sidney, Me",Unknown,2
+"Milton, Ma",Unknown,2
+"Mercer, Me",Unknown,2
+"Franklin, Ma",Unknown,2
+"Essex, Ma",Unknown,2
+"Coventry, Ri",Unknown,2
+Ticonderoga,USA,2
+Berlin,USA,2
+Pittsford,USA,2
+"Newton, Ny",USA,2
+Madison,USA,2
+East Lyme,USA,2
+Kent,USA,2
+Johnstown,USA,2
+Unknown,Usa (Naturalized),2
+Ware,USA,2
+New London,Western Islands,2
+Melville,USA,2
+New Bedford,Great Britian,2
+New Bedford,`,2
+"Shrewsbury, Nj",Unknown,2
+"Arcadia, Ny",Unknown,2
+"Middletown, Ri",Unknown,2
+"Shoreham, Vt",Unknown,2
+"Fort Monroe, Va",Unknown,2
+North Falmouth,Unknown,2
+Pawtucket Ri,Unknown,2
+"Beaver Lake, Pa",Unknown,2
+"Mashpee, Ma",Unknown,2
+"Columbus, Oh",Unknown,2
+Greenport,Unknown,2
+Northbridge,Unknown,2
+"Hamburg, Germany",Unknown,2
+Unknown,Majier,2
+"Milton, Ny",Unknown,2
+"Ramona, Canada",Unknown,2
+Northwood,Unknown,2
+"Unknown, New London",Unknown,2
+Cape De Verde,Unknown,2
+Western Islands,Unknown,2
+Auburn,USA,2
+Provincetown,USA,2
+Cabot,USA,2
+Hamilton,USA,2
+Otahita,Society Islands,2
+"Brooklin, Ny",Unknown,2
+New Bedford,Western Islands,2
+Hollis,USA,2
+New Bedford,Germany,2
+New Bedford,Sandwich Isles,2
+New London,France,2
+Dedham,USA,2
+"Exeter, Ri",Unknown,2
+Assonet Mass,USA,2
+Tiverton R.I.,USA,2
+Barnstable,USA,2
+Saint Michaels,Unknown,2
+Johnstown,Unknown,2
+Witington,Unknown,2
+Stonington,Sweden,2
+Stonington,Spain,2
+Stonington,South America,2
+Stonington,Sandwich Isles,2
+New York,Portugal,2
+"Paris, Me",Unknown,2
+Chesterfield,USA,2
+"New London, Ct",Portugal,2
+Fairfield,USA,2
+Boston,Great Britain,2
+Orange,USA,2
+"Sand Lake, Ny",Unknown,2
+Greenwich,Unknown,2
+Woodstock,USA,2
+"Baltimore, Ny",Unknown,2
+"Pico, Azore",Unknown,2
+"Saint Lucia, West Indies",Unknown,2
+"Jamaica, W. I.",Unknown,2
+Cape Darenda,Unknown,2
+Fair Haven,Africa,2
+"Huntington, Ct",Unknown,2
+East Haddam,USA,2
+Enfield,USA,2
+Havre,France,2
+Pleasant Valley,Unknown,2
+Unknown,Foreigner,2
+Rotchester,USA,2
+Unknown,Sandwich Islands,2
+New Bedford,Rode Island,2
+Unknown,Swead,2
+"Baldwin, Me",Unknown,2
+"Ternate, Java",Unknown,2
+"Richmond, Ny",Unknown,2
+"Rutland, Ma",Unknown,2
+"Standish, Me",Unknown,2
+"Prattsville, Ny",Unknown,2
+Plattsburgh,USA,2
+Duxbury,USA,2
+Lewiston,USA,2
+Ithaca,USA,2
+Orange Co.,USA,2
+New London,Cape De Verde Islands,2
+New London,South America,2
+New London,New Zealand,2
+"Blue Hill, Me",Unknown,2
+Smithville,USA,2
+New London,Scotland,2
+Nantucket,United States Of America,2
+Randolph,USA,2
+Unknown,Germany,2
+Scotland,USA,2
+Boston,United States Of America,2
+New Beford,USA,2
+Penn,Unknown,1
+"Deerfield, Ma",Unknown,1
+"Tiverton, Ri",USA,1
+Grey,USA,1
+Danvers,USA,1
+Washington City,USA,1
+Carbondale,USA,1
+South Boston,Unknown,1
+"Lodice, Nj",Unknown,1
+"Frankin, Me",Unknown,1
+"Sisle, Ny/Datrmouth",Unknown,1
+"Oxford, Me",Unknown,1
+"Malden, Ma",Unknown,1
+"Lunburg, Ns",Unknown,1
+"Dennis, Ma",Unknown,1
+"Kingston, Nb",Unknown,1
+"Birmingham, England",Unknown,1
+"Bellingham, Ma",Unknown,1
+"Belfast, Ireland",Unknown,1
+Medford,Unknown,1
+Arlington,Unknown,1
+"Ipswich, Ma",Unknown,1
+Allston,Unknown,1
+"Wells, Me",Unknown,1
+"Greenwood, Me",Unknown,1
+"Chester Co., Pa",Unknown,1
+"Somerset, Ma",Unknown,1
+"Covington, Pa/New Bedford",Unknown,1
+Lockhaven,Unknown,1
+Greenland,Unknown,1
+Buckley,Unknown,1
+Ithaca,Unknown,1
+Wayne Township,Unknown,1
+"North Jersey, England",Unknown,1
+"Marlboro, Nj",Unknown,1
+Marlboro,Unknown,1
+Champine Ny,Unknown,1
+Bournbon,Unknown,1
+"Barbados, West Indies",Unknown,1
+"Milford, Ct",Unknown,1
+"Guayaquil, So. America",Unknown,1
+"Gloversville, Ny",Unknown,1
+"Wortemburg, Germany/New York",Unknown,1
+Stockholm,Unknown,1
+Roderique Indian,Unknown,1
+"Mitchell, Ont.",Unknown,1
+"Chester, England",Unknown,1
+"East Hampton, Li",Unknown,1
+Holyoke,Unknown,1
+"Waterville, Ct",Unknown,1
+"Toledo, Oh",Unknown,1
+"Niantic, Ct",Unknown,1
+"Saint John, Newfoundland",Unknown,1
+"Plainfield, Nj",Unknown,1
+"Greenfield, Me",Unknown,1
+"Chenango, Ny",Unknown,1
+"Trumanburg, Ny",Unknown,1
+"Odessa, Ny",Unknown,1
+Southbone,Unknown,1
+Minnesota,Unknown,1
+"Chatham, Ma",Unknown,1
+"Walton, England",Unknown,1
+"South Hadley, Ma",Unknown,1
+"Oxfordshire, England",Unknown,1
+Oregon Territory,Unknown,1
+"Hudson, Ma",Unknown,1
+"Summer, Ia",Unknown,1
+"Saint John, Nova Scotia",Unknown,1
+"Bremen, Germany",Unknown,1
+Willmington,Unknown,1
+Waukegan,Unknown,1
+Malone,Unknown,1
+Gainsville,Unknown,1
+Essex,Unknown,1
+East Freetown,Unknown,1
+Bohemia,Unknown,1
+South Adams,Unknown,1
+Dennisport,Unknown,1
+Chipoll,Unknown,1
+North Providence,Unknown,1
+"Skaneateles, Ny",Unknown,1
+"Schuylkill Haven, Pa",Unknown,1
+"Madison, Ny",Unknown,1
+"Fort Edward, Ny",Unknown,1
+"Chester, Ma",Unknown,1
+"Swanzey, Nh",Unknown,1
+Sevanton Falls,Unknown,1
+Port Jackson,Unknown,1
+"Burn, Nj",Unknown,1
+"Adrian, Michigan",Unknown,1
+Madison,Unknown,1
+Lubec,Unknown,1
+Strafford,Unknown,1
+Carlisle,Unknown,1
+Oswegatchie,Unknown,1
+Badford,Unknown,1
+East Windsor,Unknown,1
+"West Newton, Ma",Unknown,1
+"Smyrna, De",Unknown,1
+"Oxford, Ny",Unknown,1
+"Menz, Ny",Unknown,1
+"Lenox, Pa",Unknown,1
+"Cooperstown, Ny",Unknown,1
+"Brownsville, Ny",Unknown,1
+"Mason, Nh",Unknown,1
+South Westport,Unknown,1
+Rana Creek,Unknown,1
+Plattsville,Unknown,1
+"Lacon, Ny",Unknown,1
+Coquimbo,Unknown,1
+Chester?,USA,1
+Gorton,USA,1
+Granville,Ny[?],1
+Duchess Co.,USA,1
+Thomastown,USA,1
+North Kingstown,USA,1
+"Salem, Nj",USA,1
+Portugal,USA,1
+Belville,USA,1
+Cochrane[?],USA,1
+Block Island,USA,1
+Stonington,Cape De Verde Island,1
+Baltic,USA,1
+Fort Edwards,USA,1
+Western Islands,Foreign,1
+Groton,Great Britain,1
+Scotland,Great Britain,1
+Iowa,USA,1
+"Greenville, Ri",Unknown,1
+"Kent County, Md",Unknown,1
+"Harpers Field, Ny",Unknown,1
+"Courtlandt, Ny",Unknown,1
+"Clinton County, Ny",Unknown,1
+"Butternutt, Ny",Unknown,1
+"Fort Ann, Ny",Unknown,1
+"Erie, Pa",Unknown,1
+Tevey,Unknown,1
+Russice (Russia?),Unknown,1
+Northumberland,Unknown,1
+Liomesee,Unknown,1
+Kinderhook,Unknown,1
+Harpersfield,Unknown,1
+Guilford,Unknown,1
+Dayton,Unknown,1
+Biddeford,Unknown,1
+"Williamstown, Ma",Unknown,1
+"West Boylston, Ma",Unknown,1
+"Tunkhannock, Pa",Unknown,1
+"Silver Creek, Ny",Unknown,1
+"Seften Borough, Nh",Unknown,1
+"Osterville, Ma",Unknown,1
+"Medford, Ma",Unknown,1
+"Harpersville, Ny",Unknown,1
+"Duxbury, Ma",Unknown,1
+"Winterspool, Va",Unknown,1
+"Nuda, Ny",Unknown,1
+"Cato, Ny",Unknown,1
+Gilderland,Unknown,1
+Suffielld,Unknown,1
+Clarkson,Unknown,1
+Florence,Unknown,1
+"Salem, Ny",Unknown,1
+"Milton, Ct",Unknown,1
+"Greene, Ny",Unknown,1
+"Exeter, Ny",Unknown,1
+"Copley, Oh",Unknown,1
+"Alexandria, Va",Unknown,1
+"Richmond, Vt",Unknown,1
+"Putney, Vt",Unknown,1
+"Pratsburg, Ny",Unknown,1
+"Port Deposit, In",Unknown,1
+"Pompey, Ny",Unknown,1
+"Pittston, Pa",Unknown,1
+"Hoosick, Ny",Unknown,1
+"Green, Ny",Unknown,1
+"Bowdoinham, Me",Unknown,1
+"Edinburgh, Scotland",Unknown,1
+Myricks,Unknown,1
+Lewisburg,Unknown,1
+Camden,Unknown,1
+"Templeton, Ma",Unknown,1
+"Temple, Nh",Unknown,1
+"Stamford, Ct",Unknown,1
+"Moravia, Ny",Unknown,1
+"Glendon, Pa",Unknown,1
+"Exeter, Nh",Unknown,1
+"Richford, Ny",Unknown,1
+"Palermo, Ny",Unknown,1
+"Norway, Ny",Unknown,1
+"Morristown, Nj",Unknown,1
+"Mamakating, Ny",Unknown,1
+"Lebanon, Ct",Unknown,1
+"Kingsbury, Ny",Unknown,1
+"Jefferson, Ny",Unknown,1
+"Douglass, Ma",Unknown,1
+"Chatham, Ny",Unknown,1
+"Bellows Falls, Vt",Unknown,1
+"Annapolis, Md",Unknown,1
+"Stockport, Ny",Unknown,1
+"Ridgeway, Ny",Unknown,1
+"Norwich, Ny",Unknown,1
+"Newark, Ny",Unknown,1
+"West Greenwich, Ri",Unknown,1
+"Reading, Ma",Unknown,1
+Middlefield,Unknown,1
+"Lyons, Ma",Unknown,1
+"Baldwinsville, Ny",Unknown,1
+"Westboro, Nh",Unknown,1
+"Oil City, Pa",Unknown,1
+"Mansfield, Ma",Unknown,1
+"Manhassett, Nh",Unknown,1
+Louisiana,Unknown,1
+"Annabon, Africa",Unknown,1
+Pennsylvana,Unknown,1
+"Fort Hampton, Ny",Unknown,1
+Ft. Hamalton,Unknown,1
+"Paris, France",Unknown,1
+"W. I. J., France",Unknown,1
+Saint Helena Or Saint Leanerdo],Unknown,1
+"Milbury, Ma",Unknown,1
+"Meriden, Ct",Unknown,1
+"Antwerp, Belgium",Unknown,1
+Somerset,Unknown,1
+Martinique,Unknown,1
+Salibabu,Unknown,1
+Derby,Unknown,1
+Ma,Unknown,1
+"Farmington, Il",Unknown,1
+"Burlington, Nj",Unknown,1
+"East Waymouth, Ma",Unknown,1
+"Bridgewater, Ma",Unknown,1
+St. Michael,Azores (Portugal),1
+St Michael,Azores (Portugal),1
+St. Croix,Unknown,1
+Wales,Unknown,1
+Clayton,USA,1
+Aberdeen,Scotland,1
+St. Jorge,Azores (Portugal),1
+"Fall River, Ma",English,1
+Jersey,English,1
+"Brooklyn, Ny",English,1
+Lewiston Falls,USA,1
+Norway,USA,1
+"Carlisle, Pa",USA,1
+Whitefield,USA,1
+Cazenovia,USA,1
+Cambria,USA,1
+St. Helena,Great Britain,1
+"Brook Haven, Ny",USA,1
+Tolland,USA,1
+"Southampton, Ny",USA,1
+"Montreal, Canada",Upper Canada,1
+"Wilmington, Vt",Unknown,1
+"Root, Ny",Unknown,1
+"Groton, Ny",Unknown,1
+"Barre, Vt",Unknown,1
+"Rensselear Co, Ny",Unknown,1
+"Lebanon, Ny",Unknown,1
+"Hydesdorm, Nj",Unknown,1
+Harlem,Unknown,1
+"Weymouth, Ma",Unknown,1
+"Dover County, De",Unknown,1
+Newbern,Unknown,1
+Newburg,Unknown,1
+Flatbush,Unknown,1
+Louistown,Unknown,1
+Alton,Unknown,1
+Harwington,Unknown,1
+"Wood Co., Va",Unknown,1
+"Ulster Co., Ny",Unknown,1
+Saint Catherines,Unknown,1
+Gowanda,Unknown,1
+"Concepcion, Chile",Unknown,1
+Hardwick,Ms(?),1
+Blanford(?),USA,1
+"Voluntown, Ct",USA,1
+Cornish[?],USA,1
+"Lyme, Ct.",USA,1
+"Woodstown, Nj",Unknown,1
+North Carolina,Unknown,1
+Shongs Is. Oceanica,Unknown,1
+Midway,Unknown,1
+Cooperstown,USA,1
+Swanzey,Ms.,1
+Fredricksburg,Va.,1
+Shutesbury,Unknown,1
+"Turin, Ny",Unknown,1
+"Steuben, Me",Unknown,1
+"West Collan, Pa",Unknown,1
+"Isle Grande, Portugal",Unknown,1
+"Rotterdam, Ny",Unknown,1
+"Trapp, Pa",Unknown,1
+"Gilson, Nh",Unknown,1
+"Sanford, Ny",Unknown,1
+"Paris, Ny",Unknown,1
+Neew Haven,Unknown,1
+"Farmington, Ny",Unknown,1
+"Harrisonburgh, Va",Unknown,1
+"Mamayark, Pa",Unknown,1
+"Wilton, Ct",Unknown,1
+"Hill, Nh",Unknown,1
+"Greencastle, Pa",Unknown,1
+Ascension Island,Unknown,1
+Flushing,USA,1
+Jamaica,USA,1
+Great Barrington,USA,1
+Medway,USA,1
+Weymouth,USA,1
+South Deerfield,USA,1
+East?,USA,1
+Half Moon,USA,1
+Schuylkill Co.,USA,1
+Lancashire,USA,1
+Sommerville,USA,1
+Schoharie,USA,1
+Jewett City,USA,1
+Steuben,USA,1
+Paris,USA,1
+Mohegan,Unknown,1
+Allisburgh?,USA,1
+Port Henry,USA,1
+Blackstone,USA,1
+Chambersburg,USA,1
+Phelps,USA,1
+Ontario Co.,USA,1
+Binghampton,USA,1
+Haverill,USA,1
+Rockport,USA,1
+Dennis,Unknown,1
+Kanaka (Prob Hawaii),Unknown,1
+"Wattensburg, Pa",Unknown,1
+"Scotchtown, Ny",Unknown,1
+"Stratford, Ct",Unknown,1
+"Canandagua, Ny",Unknown,1
+"Sandystown, Nj",Unknown,1
+"Wayne, Oh",Unknown,1
+"Manlius, Ny",Unknown,1
+"Lynchburg, Va",Unknown,1
+"Jefferson Co, Ny",Unknown,1
+Madagascar,Unknown,1
+Holstein,Unknown,1
+"Gay Head, Ma",Unknown,1
+Ansonia,Unknown,1
+Sackets Harbor,Unknown,1
+"Olive, Ny",Unknown,1
+Oneida,Unknown,1
+Hinesdale,Unknown,1
+West Virginia,Unknown,1
+Westchester,Unknown,1
+"West Tisbury, Ma",Unknown,1
+Vertland,Unknown,1
+Roteman,Unknown,1
+Clarendon,Unknown,1
+Bay Of Islands,Unknown,1
+Sandy Hill,Unknown,1
+Queensbury,Unknown,1
+Oswego,Unknown,1
+Milland,Unknown,1
+Jaffrey,Unknown,1
+Bedford,Unknown,1
+Athens,Unknown,1
+"Woodstock, Ct",Unknown,1
+"North Greenwich, Ny",Unknown,1
+New Windsor,Unknown,1
+Morisstown,Unknown,1
+"Knox, Me",Unknown,1
+"Epsom, Nh",Unknown,1
+"East Kingston, Nh",Unknown,1
+"Eagle, Ny",Unknown,1
+"West Kingston, Ri",Unknown,1
+Manado,Unknown,1
+"Turner, Ma",Unknown,1
+Santiago,Unknown,1
+Cuba,Unknown,1
+"Springfield, Illinois",Unknown,1
+Wayunt,Unknown,1
+"Rockland, Ma",Unknown,1
+Columbus,Unknown,1
+"Ashton, Ri",Unknown,1
+"North Providence, Ri",Unknown,1
+"Monmouth, Nj",Unknown,1
+"Edenton, Nc",Unknown,1
+Union Me?,Unknown,1
+Westpott,USA,1
+"Mercy Co., Pa",Unknown,1
+"Halifax, Va",Unknown,1
+"Sackewaxery, Pa",Unknown,1
+Snow Hill,Unknown,1
+"Boton, Ma",Unknown,1
+Billerica,Unknown,1
+Munson,Unknown,1
+Palmyra,Unknown,1
+Lewesville Ky,Unknown,1
+"Woodbury, Nj",Unknown,1
+"Roxbourgh, Pa",Unknown,1
+"York, Nj",Unknown,1
+"Rhinebeck, Ny",Unknown,1
+"Palmyra, Me",Unknown,1
+Chester,Unknown,1
+Worhea,Unknown,1
+Phippsburg,Unknown,1
+Bervick,Unknown,1
+West Ludbury,Unknown,1
+"New Hampton, Nh",Unknown,1
+Uncasville,USA,1
+New York,Denmark,1
+Montreal,Canada,1
+"New Haven, Ct",USA,1
+Middletown Point,USA,1
+Red Bank,USA,1
+Kingston,Great Britain,1
+Redpath,Ny?,1
+Wells,USA,1
+Guilford,Conn.,1
+Bath,Maine,1
+Fair Haven,Foreign,1
+New Bedford,Danish,1
+"Lisbon, Portugal",Unknown,1
+"Ellsworth, Me",Unknown,1
+Newport,R.I.,1
+New Port,R.I.,1
+Fairhaven,Rhode Island,1
+Tiverton,Rhode Island,1
+New Bedford,Rhode Island,1
+Warren,Rhode Island,1
+Freetown,Massachusetts,1
+Ionia,Unknown,1
+Eastwell,Unknown,1
+"Watervliet, Nj",Unknown,1
+"Milford, Ny",Unknown,1
+"Fulton, Ny",Unknown,1
+"Broomfield, Nj",Unknown,1
+"Belfast, Nj",Unknown,1
+Halifax,Canada,1
+Conquest,USA,1
+Lysanda,USA,1
+Great Bend,Unknown,1
+Brown Ridge,Unknown,1
+"Penn Yan, Ny",Unknown,1
+"North Hadley, Ma",Unknown,1
+"Belleville, Il",Unknown,1
+Puerto Rico,Unknown,1
+Cape Verd,Unknown,1
+"Williamsburgh, Ny",Unknown,1
+"Middleborough, Ma",Unknown,1
+Marshfield,Unknown,1
+Fairfield,Unknown,1
+"Whilepoll, Ns",Unknown,1
+"Cornell, Vt",Unknown,1
+Acton,Mass.,1
+Whitehall,N.Y.,1
+Rye,Unknown,1
+Bennigton,Unknown,1
+South Reading,Mass.,1
+Grafton,Mass.,1
+Lancaster,Penn.,1
+Redding,Mass.,1
+Chilmarck,USA,1
+Yarmouth,Maine,1
+(Chambersburg),Penn.,1
+Coventry,R.I.,1
+(Amsterdam,N.Y.),1
+Peterburg,N.Y.,1
+Poughkeepsie,N.Y.,1
+Lockport,N.Y.,1
+Pokeepsie,N.Y.,1
+"Limington, Me",Unknown,1
+"Southhampton, Ny",Unknown,1
+"Raymond, Nh",Unknown,1
+"Hadley, Ct",Unknown,1
+"Otsego County, Ny",Unknown,1
+"Salisbury, Nh",Unknown,1
+"Lewiston, Ny",Unknown,1
+"Sutton, Vt",Unknown,1
+"Kinderhook, Ny",Unknown,1
+"Perth Amboy, Nj",Unknown,1
+Indianapolis,Unknown,1
+"Mohegan, Ct",Unknown,1
+"Wilmot, Nh",Unknown,1
+"White Hall, Ny",Unknown,1
+"Pownal, Vt",Unknown,1
+"Pomfret, Vt",Unknown,1
+"Pittsfield, Vt",Unknown,1
+"Buckfield, Me",Unknown,1
+Landgate,USA,1
+Dennis,USA,1
+Niagra Co.,USA,1
+Niagra,USA,1
+Ducher?,Ireland,1
+Wooster,USA,1
+"Mathusfield, Ct",Unknown,1
+"Nashville, Nh",Unknown,1
+"Williamsburg, Ma/New Bedford",Unknown,1
+Pawtucket/Wareham,Unknown,1
+(-),Unknown,1
+West Bridgewater,Unknown,1
+"Kinglston, Ny",Unknown,1
+"Wolfboro,Nh",Unknown,1
+"Wolfsborough, Nh",Unknown,1
+"Camptown, Nj",Unknown,1
+"Union Factory, Md",Unknown,1
+"Saint George, Me",Unknown,1
+"Rock Stream, Ny",Unknown,1
+"Matteram, Nj",Unknown,1
+"Coshocton, Oh",Unknown,1
+"Belchertown, Ma",Unknown,1
+"Matteawan, Ny",Unknown,1
+"Hollis, Me",Unknown,1
+"Blackville, Ny",Unknown,1
+"Winthrop, Ma",Unknown,1
+"Freetown, Nj",Unknown,1
+"Florence, Oh",Unknown,1
+East Hampton,Unknown,1
+"Lawrence, Pa",Unknown,1
+"Raucocus, Nj",Unknown,1
+"Castile, Nj",Unknown,1
+Saxony,Unknown,1
+Amesbury,Unknown,1
+Woodstsown,Unknown,1
+Westfield,Unknown,1
+Lennan,Unknown,1
+"Kendall Mills, Me",Unknown,1
+Berksberg,Unknown,1
+Santo Domingo,Unknown,1
+Honduras,Unknown,1
+"Waterloo, Ny",Unknown,1
+"Pittstown, Ny",Unknown,1
+"Moff Haven, Ny",Unknown,1
+"German Flats, Ny",Unknown,1
+"Buckstown, Pa",Unknown,1
+"North Bridgewater, Ma",Unknown,1
+"Johnsburgh, Ny",Unknown,1
+"Fayetteville, Pa",Unknown,1
+"Dover, Sc",Unknown,1
+"Chambersburg, Pa",Unknown,1
+"Croydon, Nh",Unknown,1
+"Clayton, Nj",Unknown,1
+"Carlisle, Pa",Unknown,1
+Norton,USA,1
+Georgetown,USA,1
+,USA,1
+South Kingston,USA,1
+Madras,Unknown,1
+New Bedford,Foreigner,1
+North Kingston,USA,1
+Western Ireland,Unknown,1
+North Kingston,Unknown,1
+Industry,Unknown,1
+Brushwick,Unknown,1
+Francistown,Unknown,1
+Canterbury,Unknown,1
+Foxborough,Unknown,1
+Barrington,Unknown,1
+Perth Amboy,USA,1
+Sag Harbor,Great Britain,1
+Paupey[?],USA,1
+Unknown,Azores (Portugal),1
+Hemstead,USA,1
+Berkley,USA,1
+Masselleville,Ny?,1
+Lyme,Unknown,1
+Abbingtfon,USA,1
+South Reading,USA,1
+Tristan Da Cunha,Great Britain,1
+Ireland,Great Britain,1
+New London,Tristan D'Cuna,1
+Groton,Western Islands,1
+Georgia,USA,1
+Unknown,Brazil,1
+"Little Falls, Nj",USA,1
+Savannah,USA,1
+"Athens, Ga",USA,1
+Grenada,Unknown,1
+Burrillville,Unknown,1
+"Granby, Ny",Unknown,1
+Scituate,Unknown,1
+Au,Unknown,1
+Belchertown,Unknown,1
+Chazey,Unknown,1
+North East,Unknown,1
+Stoopbrook,Unknown,1
+"Snow Hill, Rochester",Unknown,1
+Canton,Unknown,1
+Welch,Unknown,1
+Frankfort,Unknown,1
+Morristown,Unknown,1
+Coldbrook,Unknown,1
+Skilletville,Unknown,1
+Genesee,Unknown,1
+Osterville,Unknown,1
+Princeton,Unknown,1
+Binghampton,Unknown,1
+"Richmond, Me",Unknown,1
+Rushford,Unknown,1
+Hensdale,Unknown,1
+Elmira,Unknown,1
+Defiance,Unknown,1
+"Defiance, Oh",Unknown,1
+"Satterville, Ny",Unknown,1
+"New Philadelphia, Oh",Unknown,1
+"Marshfield, Ma",Unknown,1
+"Hinsdale, Ma",Unknown,1
+"Greenville, Ny",Unknown,1
+"Claremont, Ny",Unknown,1
+"Brickstown, La",Unknown,1
+"Ashland, Oh",Unknown,1
+Niagara,Unknown,1
+"Grahamsville, Ny",Unknown,1
+"Monument, Ma",Unknown,1
+Foxbury,Unknown,1
+Sharon,Unknown,1
+"Holderness, Nh",Unknown,1
+"Cherry Valley, Ny",Unknown,1
+"Greenwich, Ri",Unknown,1
+"Rockland, Ny",Unknown,1
+"Dover, Ny",Unknown,1
+"South Scituate, Ri",Unknown,1
+"South Orange, Ma",Unknown,1
+"Northfield, Nh",Unknown,1
+"Middleboro, Ny",Unknown,1
+Lower Canada,Unknown,1
+"Lowain, Nh",Unknown,1
+Gilboa Ny,Unknown,1
+Bristol Ri,Unknown,1
+"Waterloo, Nj",Unknown,1
+"Shandon, Oh",Unknown,1
+"Litchfield, Ma",Unknown,1
+"Dublin, Ma",Unknown,1
+"Bay City, Mi",Unknown,1
+Moorestown Nj,Unknown,1
+"Southampton, England",Unknown,1
+"Preston, Ct",Unknown,1
+Foxcraft,Unknown,1
+Jacksonville Il,Unknown,1
+"Bristol, England",Unknown,1
+"Melrose, Ma",Unknown,1
+"Wave, Nh",Unknown,1
+Rouse Point Ny,Unknown,1
+"Hallsville, Nh",Unknown,1
+Dudley,Unknown,1
+Carroll,Unknown,1
+Boston Or Sandwich,Unknown,1
+Barre,Unknown,1
+"Portsmouth, Va",Unknown,1
+"Carroll, Me",Unknown,1
+"Uxbridge, Ma",Unknown,1
+"Springfield, O",Unknown,1
+"Rochester, Vt",Unknown,1
+Buckingham Co.,Unknown,1
+"Brattleboro, Vt",Unknown,1
+"Bernard, Vt",Unknown,1
+Mt. Vernon,USA,1
+Foxcroft,USA,1
+Ashfield,USA,1
+Ireland,Ireland,1
+Newport Ri,USA,1
+Mount Vernon,Unknown,1
+Ashfield,Unknown,1
+Holland,Unknown,1
+Hallowell,Unknown,1
+Elizabeth Town,Unknown,1
+"Richville, Ny",Unknown,1
+"Lempster, Nh",Unknown,1
+South Mendon,Unknown,1
+Mendon,Unknown,1
+Northhampton,Unknown,1
+Shrewsbury,Unknown,1
+"Riverhead, Ny",Unknown,1
+Southbridge,Unknown,1
+"West Vine, Ny",Unknown,1
+"Vassalboro, Me",Unknown,1
+Stewartstown,Unknown,1
+Quincy,Unknown,1
+Leominstown,Unknown,1
+Hopkinton,Unknown,1
+"Hamilton Co, Oh",Unknown,1
+"Dilwestown, Pa",Unknown,1
+"Caringdale, Pa",Unknown,1
+Shenango Forks,Unknown,1
+Onondaga Hollow,Unknown,1
+"Hudson Co., Ny",Unknown,1
+Zanzibar,Unknown,1
+Wilford,Unknown,1
+"Sterling, England",Unknown,1
+South Malden,Unknown,1
+San Jose,Unknown,1
+"Pittsfield, Nh",Unknown,1
+East Chester,Unknown,1
+"Brooklyn, Ma",Unknown,1
+Harlem,USA,1
+Henderson,Unknown,1
+"Eastburg, Ct",Unknown,1
+Greece,Unknown,1
+"Searsmont, Me",Unknown,1
+Nashville,Unknown,1
+"Covington, Pa",Unknown,1
+"Bristol, Ny",Unknown,1
+Warwarsing,Unknown,1
+"Walden, Vt",Unknown,1
+"Unionville, Ct",Unknown,1
+"Sutton, Ma",Unknown,1
+Sparta,Unknown,1
+Skaneateles,Unknown,1
+Sanbornton Bridge,Unknown,1
+Sanbornton,Unknown,1
+Perth Amboy,Unknown,1
+"New Town, Wales",Unknown,1
+"New Hope, Pa",Unknown,1
+Fishkill,Unknown,1
+East Lanesville,Unknown,1
+Dundee,Unknown,1
+Bridgetown,USA,1
+Waterford,Untited States Of America,1
+South Hampton,Great Britain,1
+Uxbridge,USA,1
+"East Haddam, Ct",Sandwich Islands,1
+"Orange, Nj",USA,1
+Copenhagen,Denmark,1
+Isle Of Man,Great Britain,1
+Annapolis,USA,1
+Greenbush,USA,1
+Peru,USA,1
+St. Albans,USA,1
+North Island,USA,1
+Lynchburg,USA,1
+Hoboken,USA,1
+Moborough,USA,1
+Kent Co.,USA,1
+Bloomfield,USA,1
+Whilte Wall,USA,1
+Jerrico,USA,1
+Cateragus Co.,USA,1
+New York,Canada,1
+Canada,Great Britain,1
+Barnsley,USA,1
+Orange,Ny,1
+Anarundell,USA,1
+"Vernon, Ct",USA,1
+Oneida Co.,USA,1
+Covington,USA,1
+White Plains,USA,1
+Sandwich?,Unknown,1
+"Brooklyn, Ny",Usa (Naturalized),1
+"Smithfiled, Ri",Unknown,1
+"Andover, Oh",Unknown,1
+"Fayette, Ny",Unknown,1
+"Sharon, Ct",Unknown,1
+"Heniker, Nh",Unknown,1
+Irwin,Unknown,1
+"Grassburg, Vt",Unknown,1
+"Freehold, Nj",Unknown,1
+"Dora, Nj",Unknown,1
+"Covington, Ky",Unknown,1
+"Tioga, Pa",Unknown,1
+"Stowe, Me",Unknown,1
+"Schodack, Ny",Unknown,1
+Memphis,Unknown,1
+"Little York, Pa",Unknown,1
+"Fairmont, Va",Unknown,1
+"Elizabeth City, Nj",Unknown,1
+"Memphis, Tn",Unknown,1
+Hartford Co.,Unknown,1
+East Falmouth,Unknown,1
+"Harwich, Ma",Unknown,1
+"Kema, Indonesia",Unknown,1
+Adams,Unknown,1
+Northampton,Unknown,1
+"Indian Orchard, Ma",Unknown,1
+"Hastings, Me, Sprinfield, Ma",Unknown,1
+Cork,Unknown,1
+"Lemister, Nh",Unknown,1
+"Atworth, Nh",Unknown,1
+"Windsor, Nova Scotia",Unknown,1
+"Warren, Ns",Unknown,1
+"Tombey, Pa",Unknown,1
+Brigs Mills,Unknown,1
+"Litchfield, Ct",Unknown,1
+"Leroy, Ny",Unknown,1
+"Greenfield, Ma",Unknown,1
+Tewksbury,Unknown,1
+"Simsbury, Ct",Unknown,1
+"Roxbury, Nh",Unknown,1
+New Wilmington,Unknown,1
+"Foristville, Ny",Unknown,1
+New Grenada,Unknown,1
+Cazenovia N. Y.,Unknown,1
+"Callao, Peru",Unknown,1
+"Sharlon Co., Va",Unknown,1
+"Saint Mathews, West Indies",Unknown,1
+"Hackettstown, Nj",Unknown,1
+East Providence,Unknown,1
+"Weymouth, England",Unknown,1
+"Fitzwilliam, Nh",Unknown,1
+Quebec,Unknown,1
+Nassau W. I.,Unknown,1
+Gothenburg,Unknown,1
+Bergen,Unknown,1
+"Greenport, Ny",USA,1
+Lay Karbrom,USA,1
+Bangor,USA,1
+Unknown,Unkown,1
+Gibraltar,Spain,1
+Bonavista,Cape De Verde,1
+Ogdensburg,USA,1
+Toledeo,USA,1
+Fredericktown,USA,1
+Wayland,USA,1
+Belfast,Great Britain,1
+Babylon,USA,1
+Amora?,USA,1
+N. S.,USA,1
+Carlisle,USA,1
+Hope,USA,1
+Fayal,Lyons,1
+Norwich,France,1
+Norwich,Ireland,1
+"Kingston, Ny",USA,1
+Glanciscally?,USA,1
+Whitehall,USA,1
+Lyne,USA,1
+Danbury?,USA,1
+Holton,USA,1
+Montgony,USA,1
+Grand Com__,Unknown,1
+Orange Co.,Unknown,1
+Northport,Unknown,1
+Moon Island,Unknown,1
+"Brunswick, Mn",Unknown,1
+"Hartford, Ny",Unknown,1
+"Northville, Ny",Unknown,1
+"Mopriah, Ny",Unknown,1
+Bytown,Unknown,1
+"Lee, Suffolk County, Nh",Unknown,1
+Greenbush,Unknown,1
+Newbury Port,USA,1
+Jenkins Town,Unknown,1
+Block Island,Unknown,1
+South Carolina,Unknown,1
+Saybrook,Unknown,1
+"Holyoke, Ma",Unknown,1
+Georia,Unknown,1
+"Lewiston, Ma",Unknown,1
+Johanna,Unknown,1
+Saint Paul De Loando,Unknown,1
+Port Baro,Unknown,1
+Cape Elizabeth,USA,1
+Cape Elizabeth,Unknown,1
+"Trieste, Austria",Unknown,1
+Is. Sara,Unknown,1
+"Harpersfield, Ny",Unknown,1
+"West, Ct",Unknown,1
+"Sandy Hill, Md",Unknown,1
+"Parish, Ny",Unknown,1
+"Meredith, Nh",Unknown,1
+"Grafton, Vt",Unknown,1
+Mount Holly,Unknown,1
+"Townsend, Ma",Unknown,1
+"Harves Town, Ng",Unknown,1
+"Easton, Maryland",Unknown,1
+Bombay,Unknown,1
+Uxbridge,Unknown,1
+Planfield,Unknown,1
+Jeffery,Unknown,1
+"Middlesex, Vt",Unknown,1
+Deerfield,Unknown,1
+"Harlem, New York",Unknown,1
+"Johnston, Ny",Unknown,1
+"Hartland, Vt",Unknown,1
+"Northumberland County, Va",Unknown,1
+"Johnson County, Va",Unknown,1
+Illegible,Unknown,1
+"Chatham, Ct",Unknown,1
+Washington Co.,USA,1
+Bozrah?,USA,1
+"Hoosick Co, Ny",Unknown,1
+"Simcook, Nh",Unknown,1
+"Hencork, Belgium",Unknown,1
+Germany/Chicago,Unknown,1
+"Cambridge, Ohio",Unknown,1
+Baden,Unknown,1
+"Trenton, Oneida County, Ny",Unknown,1
+"Woodbury, Ct",Unknown,1
+Richborough,Unknown,1
+"Norfolk, Ny",Unknown,1
+"Hydesville, Vt",Unknown,1
+"Canaan, Vt",Unknown,1
+"Greenport, L. I.",Unknown,1
+"Waterall, Ny",Unknown,1
+"Rochester, Mich",Unknown,1
+Rio De Janeiro,Unknown,1
+Germany/New Bedford,Unknown,1
+Paita,Unknown,1
+Navigator Island,Unknown,1
+"Norfoklk, Va",Unknown,1
+Coxsackie,Unknown,1
+Newbury,Unknown,1
+"Eastown, Nj",Unknown,1
+Wellington,USA,1
+Seekonk,USA,1
+Seekonk,Unknown,1
+New Bern,Unknown,1
+Finland,Unknown,1
+Corky,Unknown,1
+New Bedford,Spain,1
+Wentham,Unknown,1
+Buxton,Unknown,1
+,,1
+Philadelphia,,1
+Waterboro,Unknown,1
+Hampstead,Unknown,1
+Pittlburgh,Unknown,1
+Bloomingdale,Unknown,1
+Brutus,Unknown,1
+"Black Rock, Ny",Unknown,1
+"Wilton, Nh",Unknown,1
+"Chazy, Ny",Unknown,1
+"Stafford, Ct",Unknown,1
+"Plainfield, Ny",Unknown,1
+"Jewett, Ny",Unknown,1
+"Jerusalem, Ny",Unknown,1
+"Homer, Oh",Unknown,1
+"Westlow, Ny",Unknown,1
+"Westfield, Nj",Unknown,1
+"Washington, Ny",Unknown,1
+"Norristown, Pa",Unknown,1
+"Mintonville, Pa",Unknown,1
+"Havre De Grace, Md",Unknown,1
+"Corinth, Me",Unknown,1
+"Bristol, Pa",Unknown,1
+North Port,Unknown,1
+Tiverton,Foreign,1
+Newark,Conn.,1
+Bosyon,USA,1
+"Teneriffe, Canary Island",Unknown,1
+"Seeds, Me",Unknown,1
+Elsinore,Unknown,1
+Bloomfield,Unknown,1
+"Peekskill, Ny",Unknown,1
+"Troy, Me",Unknown,1
+"Hillerton, Ma",Unknown,1
+"Somerset, Ny",Unknown,1
+"Milton, Vt",Unknown,1
+Bucks County,Unknown,1
+"Salem, Nl",Unknown,1
+"Gloucester, Ct",Unknown,1
+Hoosack Falls,Unknown,1
+Rose,Unknown,1
+Highgate,Unknown,1
+Fishskill,Unknown,1
+"Brunswick, Ny",Unknown,1
+East Cambridge,Unknown,1
+"Lancaster, Nh",Unknown,1
+"Guilford, Ny",Unknown,1
+"Cavendish, Vt",Unknown,1
+Pepperell,Unknown,1
+Marietta,Unknown,1
+Jefferson,Unknown,1
+Edgecomb,Unknown,1
+Blue Hill,Unknown,1
+Turin,Unknown,1
+Pottersville,Unknown,1
+Nassau,Unknown,1
+Brattleboro,Unknown,1
+"Esopus, Ny",Unknown,1
+"Armsville, Ny",Unknown,1
+"Morris County, Ny",Unknown,1
+"Mt. Morris, Ny",Unknown,1
+"Middletown, Pa",Unknown,1
+"Rye, Ny",Unknown,1
+"Wellington, Ct",Unknown,1
+"Webster, Mi",Unknown,1
+Mt. Holly,Unknown,1
+Huron,Unknown,1
+"Chilsea, Me",Unknown,1
+"Bothman, Oh",Unknown,1
+"Windham, Oh",Unknown,1
+"Whitestown, Ny",Unknown,1
+"Peacham, Vt",Unknown,1
+"Hicksville, Ny",Unknown,1
+"Hempstead, Ny",Unknown,1
+"Fayetteville, Ny",Unknown,1
+"East Fishkill, Ny",Unknown,1
+"Falls Village, Ct",Unknown,1
+"Alma, Ny",Unknown,1
+Milwaukee,Unknown,1
+"Leeds, England",Unknown,1
+"Glasgow, Scotland",Unknown,1
+"Buena Vista, Cape Verde",Unknown,1
+"Belvidere, Nj",Unknown,1
+Ascention Island,Unknown,1
+"Windsor, Nj",Unknown,1
+Susquehanna,Unknown,1
+"Bangs, Me",Unknown,1
+"Aberdeen, Ms",Unknown,1
+Sommerville,Unknown,1
+"Plaskyer, Ny",Unknown,1
+Keene,Unknown,1
+Austria,Unknown,1
+"Stratham, Nh",Unknown,1
+"Danville, Vt",Unknown,1
+"Chesterville, Me",Unknown,1
+"Avon, Me",Unknown,1
+Duxbury,Unknown,1
+"Bradford, Ct",Unknown,1
+"Berwick, Me",Unknown,1
+"Salina, Ny",Unknown,1
+"Perrysville, Pa",Unknown,1
+"Manchester, Ny",Unknown,1
+Tarrytown,Unknown,1
+Mattatuck Ny,Unknown,1
+Tisboro,USA,1
+Faial,Portugal,1
+Fial,Portugal,1
+New Bedford,Matthew Stetson,1
+"Warner, Nh",Unknown,1
+"Anson, Me",Unknown,1
+"Cornish, Nh",Unknown,1
+"Lions, Wayne County, Ny",Unknown,1
+"Desham, Green County, Ny",Unknown,1
+Bertland,Unknown,1
+New Bedford,Portugues,1
+Cape Nicholas,6 Islands,1
+New Bedfrod,USA,1
+E. Lyme,USA,1
+B?,USA,1
+Marlboro,USA,1
+Florence,USA,1
+"Randolph, Ma",USA,1
+Almira St.,USA,1
+Cumberland,USA,1
+Yorkshire,Great Britain,1
+Salem,Sweden,1
+Salem,Otaheite,1
+Shapley,Maine,1
+St Johns,USA,1
+Redding,USA,1
+Blumfield,USA,1
+"Pitston, Me",Unknown,1
+"Meredith Bridge, Nh",Unknown,1
+"Hamilton, Ny",Unknown,1
+"Danbury, Ny",Unknown,1
+"Charlton, Ny",Unknown,1
+"Flushing, L. I.",Unknown,1
+"Chelbarville, Me",Unknown,1
+"Canaan, Ny",Unknown,1
+South Coventry,Unknown,1
+"Haynesville, Nj",Unknown,1
+Weston,Unknown,1
+Sulu Islands,Unknown,1
+Assonet,Unknown,1
+Mercy,USA,1
+Horntown,USA,1
+Phillipston,USA,1
+"Boston, Ma",USA,1
+Unknown,No Proof,1
+Sindon ?,USA,1
+Chicago,USA,1
+West Farms,USA,1
+Wrentham,USA,1
+Great Falls,USA,1
+"Winsbury, Ny",Unknown,1
+Port Jervis,Unknown,1
+Camden,USA,1
+Johnson,USA,1
+Birmingham,Great Britain,1
+Pompey,USA,1
+New London,"Western Islands, Portugal",1
+"Brighton, Ny",USA,1
+"Lisbon, Ct",USA,1
+Hollann Purder,USA,1
+Marston,USA,1
+Greene Co.,USA,1
+Edinborough,Scotland,1
+"Burlington, Vt",Great Britain,1
+West Cambridge,USA,1
+Douglas,USA,1
+Sanduinton?,USA,1
+Sandwich Islands,USA,1
+Hong Kong,China,1
+Rarotonga,Otahiti,1
+Rockland Co.,USA,1
+Spencer,USA,1
+Tahiti,Society Islands,1
+Carlisle,Great Britain,1
+Fishers Island,USA,1
+"Hope, Vt",Unknown,1
+"Bibay, Pa",Unknown,1
+"Paulet, Vt",Unknown,1
+"Charlestown, Ri",Unknown,1
+"Griswold, Ct",Unknown,1
+"Belbec, Ny",Unknown,1
+Huntington. Ny,Unknown,1
+"Gardner, Me",Unknown,1
+"Cairo, Ny",Unknown,1
+"Stockbridge, Ny",Unknown,1
+"Northumberland, Ny",Unknown,1
+"Hector, Ny",Unknown,1
+"Clorick, Ny",Unknown,1
+"Warren, Nh",Unknown,1
+"Springfield, Nj",Unknown,1
+"Seneca Falls, Ny",Unknown,1
+Saratoga Springs,Unknown,1
+"Lebanon, Pa",Unknown,1
+"Windsor, Ny",Unknown,1
+"Waquoit, Ma",Unknown,1
+"Venice, Oh",Unknown,1
+"South Durham, Me",Unknown,1
+"Minot, Me",Unknown,1
+East Auburn Me,Unknown,1
+"Auburn, Me",Unknown,1
+"Webster, Ma",Unknown,1
+Willimantic,Unknown,1
+Titusville,Unknown,1
+Dublin,Ireland,1
+Brockford,USA,1
+Woodbridge,Great Britain,1
+Sunderland,Great Britain,1
+Richmondtown,USA,1
+Attleborough,USA,1
+Cloverland,USA,1
+Saracas?,USA,1
+Bethpage,USA,1
+Mount Pleasant,USA,1
+Alexander,USA,1
+Sidney,USA,1
+"Alexander, Ny",Unknown,1
+Leeds,Great Britain,1
+Borzah,USA,1
+Dudley,USA,1
+Fishkill,USA,1
+Somers,USA,1
+"Groton, Ct",Sweden,1
+Wolcott,USA,1
+New London,East Indian,1
+Western Islands,[?],1
+New London,Untied States Of America,1
+"New Orleans, La",USA,1
+Kentucky,USA,1
+New York,La?,1
+"Ontario, Ny",Unknown,1
+"Middleboro, Vt",Unknown,1
+"Marshfield, Vt",Unknown,1
+"Lee, Me",Unknown,1
+"Fort Wayne, Id",Unknown,1
+"Ashburnham, Ma",Unknown,1
+"Greenwich, Ny",Unknown,1
+"Damariscotta, Me",Unknown,1
+"Aurora, Il",Unknown,1
+"Milville, Nj",Unknown,1
+"Sal, Cape Verde",Unknown,1
+Yates Co.,USA,1
+Paynesville,USA,1
+"Jackson, Pa",USA,1
+Needham,USA,1
+Albion,USA,1
+Winslow,USA,1
+Sanford,USA,1
+South Glastenbury,USA,1
+New York,Naturalized,1
+Riverhead,USA,1
+"Charleston, Ri",Unknown,1
+Saratoga,Usa (Naturalized),1
+Astonia,USA,1
+Moriah,USA,1
+Galen,USA,1
+Lowell?,USA,1
+Nipper Knock,Ny?,1
+Summerville,USA,1
+Frankford,USA,1
+Gabarouch?,British Columbia,1
+"Warren, Ri",USA,1
+Wallabout?,USA,1
+Jericho,USA,1
+Wilton,USA,1
+St. Croix,USA,1
+Winthrop,USA,1
+Brattleborough,USA,1
+Scaford [?],USA,1
+Walton,USA,1
+North Madison,USA,1
+Deerfield,USA,1
+Salesbury,USA,1
+Hagerstown,USA,1
+"New Milford, Ct",Unknown,1
+"Hanson, Ma",Unknown,1
+"Killingley, Ct",Unknown,1
+Newington,USA,1
+Pennington,USA,1
+Holland,USA,1
+Kennebunk,USA,1
+M?,USA,1
+Norwich,Great Britain,1
+Norwich,Denmark,1
+Vermont,USA,1
+Bath,Great Britian,1
+Waterville,USA,1
+Hingham,Unknown,1
+Eastham,Unknown,1
+"South Odell, Il",Unknown,1
+"Niagara Falls, Ny",Unknown,1
+"Dover, De",Unknown,1
+"Bath, Ny",Unknown,1
+S Kingston Ri,USA,1
+New Bedford Petersburg Va,USA,1
+Bristol Ri,USA,1
+Nottingham Nh,USA,1
+Berwick,Maine,1
+Saco,Maine,1
+[Portland],Sandwich Islands,1
+"Ovid, Ny",Unknown,1
+"Brewer, Me",Unknown,1
+Bloomingburgh,Unknown,1
+Isle Of St. George,Unknown,1
+"Munroe, Ny",Unknown,1
+"Westerle Green County, Ny",Unknown,1
+"Hinsdale, Columbia County, Ny",Unknown,1
+"Cincinnati, Oh",Unknown,1
+"Hobart Town, Tasmania",Unknown,1
+"Mansfield, Ct",Unknown,1
+"Duxbury, Vt",Unknown,1
+New Haven Ct,Unknown,1
+"Portsmouth, England",Unknown,1
+"Bradford, Vt",Unknown,1
+"Ranson, Oneida County, Ny",Unknown,1
+"Newfane, Windham County, Vt",Unknown,1
+"Antrum, Columbus County, Ny",Unknown,1
+"Sheffield, Ma",Unknown,1
+"Haddam, Ct",Unknown,1
+"Scranton, Pa",Unknown,1
+"Sadsbury, Pa",Unknown,1
+"North Bridge, Ma",Unknown,1
+New Gardner,Unknown,1
+"Hartwick, Ny",Unknown,1
+"Harrisville, Ma",Unknown,1
+Great Falls,Unknown,1
+"Fairhaven, Vt",Unknown,1
+"Dayton, Ny",Unknown,1
+Clossenbury,Unknown,1
+"Bloomingburg, Ny",Unknown,1
+-,-,1
+Ithica,USA,1
+-,USA,1
+"Saugus, Ma",Unknown,1
+"Framingham, Ma",Unknown,1
+"Hillsborough, Nh",Unknown,1
+Kensington,Unknown,1
+"Saint Albans, Vt",Unknown,1
+"Richmond, Pa",Unknown,1
+"Queen Anne, Md",Unknown,1
+"Northfield, Vt",Unknown,1
+"Conway, Me",Unknown,1
+Windson,Unknown,1
+Norridgewock,Unknown,1
+Gardenr,Unknown,1
+Farrington,Unknown,1
+Cornille,Unknown,1
+Canaan,Unknown,1
+Boothbay,Unknown,1
+"Westfield, Ma",Unknown,1
+"Martins Hill, Ny",Unknown,1
+Lunenburg,Unknown,1
+Wirtemberg,Unknown,1
+Towanda,Unknown,1
+Phenix,Unknown,1
+Farmersville,Unknown,1
+East Douglass,Unknown,1
+Allen,Unknown,1
+New Bedford,Switzerland,1
+"Plattsburgh, Ny",Unknown,1
+"Scott, Ny",Unknown,1
+"Windsor, Me",Unknown,1
+"Woodbury, Ny",Unknown,1
+"Tiveerton, Ri",Unknown,1
+"Grantham, Nh",Unknown,1
+"Neville, Ny",Unknown,1
+"Coxackie, Ny",Unknown,1
+Saint Johns,Unknown,1
+"Rutland, Pa",Unknown,1
+"Cambridge, Ny",Unknown,1
+"Linden, Vt",Unknown,1
+Havre De Gras,Unknown,1
+Somus,USA,1
+Brittany,Great Britian,1
+New London,Hawaiian Islands,1
+St. George,USA,1
+Whittingham,USA,1
+"Worcester, Ny",USA,1
+Jefferson Co.,USA,1
+Westmaid,Ireland,1
+South Hadley,USA,1
+Tarryville,USA,1
+Ganex,Scotland,1
+Acton,USA,1
+Greenock,Scotland,1
+Schoharie,Ny,1
+Fairhaven/Philadelphia,Unknown,1
+"Huron, Wayne County, Ny",Unknown,1
+"Walton, Delaware County, Ny",Unknown,1
+Steubenville,Unknown,1
+"Peru, Il",Unknown,1
+"Newburg, Ny",Unknown,1
+"Waymect, Pa",Unknown,1
+"Selvarno, Pa",Unknown,1
+North Haven,Unknown,1
+"Natick, Ma",Unknown,1
+"Georgetown, Md",Unknown,1
+"Canerndale, Pa",Unknown,1
+"Berwick, Pa",Unknown,1
+"West Point, Ny",Unknown,1
+"Ringsbury, Ny",Unknown,1
+"Littleton, Ma",Unknown,1
+"Clapsville, O",Unknown,1
+North Salem Ny,Unknown,1
+"Newton, Ny",Unknown,1
+"Lloyd, Ny",Unknown,1
+Little Falls Ny,Unknown,1
+Banyan Sura La,Unknown,1
+Sandwich,Us,1
+Thorton,Us,1
+Newport,Us,1
+Boston,Us,1
+Concord,Us,1
+Dartmouth,France,1
+"Cold Spring, Ny",Unknown,1
+"Canandaigua, Ny",Unknown,1
+"Atkinson, Nh",Unknown,1
+"Francestown, Nh",Unknown,1
+Sippican,Unknown,1
+Shelburne Falls,Unknown,1
+Westport,,1
+Brookhaven,Unknown,1
+Holton,Unknown,1
+Lincoln,Unknown,1
+"Hebron, Oxford County, Me",Unknown,1
+"Seneca, Ont. County, Ny",Unknown,1
+"Oneida, Ny",Unknown,1
+Grantville M,Unknown,1
+"Columbia, Sc",Unknown,1
+Cardiff,Unknown,1
+"Attleboro, Ma",Unknown,1
+New York State,Unknown,1
+Fernandina,Unknown,1
+Pottstown,USA,1
+Spencer,Unknown,1
+Barnet,Unknown,1
+"Bernardstown, Ny",Unknown,1
+Sheffield,USA,1
+Meriden,USA,1
+Kingstown,USA,1
+Lexington,USA,1
+Haverhill,USA,1
+"New Utrecht, Ny",Unknown,1
+Rowley,Unknown,1
+"Carbondale, Pa",Unknown,1
+"Clynton, Al",Unknown,1
+Niagra Falls,Unknown,1
+"Havestraw, Ny",Unknown,1
+"Hyde Park, Vt",Unknown,1
+"Norwalk, Oh",Unknown,1
+"Milford, Pa",Unknown,1
+"Ludlow, Ny",Unknown,1
+Jerusalem,Unknown,1
+"Canton, Oh",Unknown,1
+"Amenia, Ny",Unknown,1
+"Hartland, Ct",Unknown,1
+Darien Ny,Unknown,1
+"Chatham Four Corners, Ny",Unknown,1
+"Loraine, France",Unknown,1
+Iceland,Unknown,1
+"Toronto, Canada",Unknown,1
+South Weymouth,Unknown,1
+Saint Clair,Unknown,1
+Mogo,Unknown,1
+Fortuna Islands,Unknown,1
+"Morristown, Pa",Unknown,1
+"Ansonia, Ct",Unknown,1
+Ashley Falls,Unknown,1
+Tunzey[?],Unknown,1
+South Acton,Unknown,1
+Era[Emmaus?],Unknown,1
+C S,Unknown,1
+"Fairfield, Ny",Unknown,1
+"Frankfurt, Ky",Unknown,1
+"Hillsdale, Ny",Unknown,1
+"Waterford, Ct",Unknown,1
+Yorkville,Unknown,1
+"Auson, Me",Unknown,1
+"Norrigework, Me",Unknown,1
+"Collins, Ny",Unknown,1
+"Ripley, Oh",Unknown,1
+Sidney,Unknown,1
+"Woonsocket Falls, Ri",Unknown,1
+"Cornwell, Ny",Unknown,1
+Whitefield,Unknown,1
+Monmouth Co.,Unknown,1
+Malden,Unknown,1
+"Dundee, Il",Unknown,1
+"Plymouth, Vt",Unknown,1
+Minesink Ny,Unknown,1
+"Long Branch, Nj",Unknown,1
+"Lafayette, In",Unknown,1
+"Albany, Nj",Unknown,1
+"Readsboro, Vt",Unknown,1
+"Oyster Bay, Ny",Unknown,1
+Nova Scotia,Great Britain,1
+"Chester County, London Grove, Pa",Unknown,1
+"Waterbury, Me",Unknown,1
+"Waddington, Ny",Unknown,1
+Saratoga,Unknown,1
+"Rondout, Ny",Unknown,1
+"Irving, Ny",Unknown,1
+Berkley,Unknown,1
+"Lincoln, Ny",Unknown,1
+"Fairport, Ny",Unknown,1
+"Coventry, Ny",Unknown,1
+"Snow Hill, Md",Unknown,1
+Pownal Vt,Unknown,1
+"Northampton, Me",Unknown,1
+"Java, Ny",Unknown,1
+"Albion, Ny",Unknown,1
+Chester County,Penn,1
+New Bedford,Foriegn,1
+Wiscapett,USA,1
+"Saint Mary'S, Ga",Unknown,1
+"Huntington, Li, Ny",Unknown,1
+White Plains,Unknown,1
+"Oxford, Chenango County, Ny",Unknown,1
+"Oswego County, Ny",Unknown,1
+"Sodus, Ny",Unknown,1
+Managunk,Unknown,1
+Parker,Unknown,1
+De Kalb,Unknown,1
+Watson,Unknown,1
+Vernon,Unknown,1
+Killingly,Unknown,1
+"Washington, Nc",Unknown,1
+North Orange,Unknown,1
+Whitingham,Unknown,1
+"Medway, Ma",Unknown,1
+"Little Britain, Ny",Unknown,1
+"Guilford, Vt",Unknown,1
+"Dearbonville, Wi",Unknown,1
+Pittstown,USA,1
+Shelter Island,USA,1
+Remaston?,USA,1
+New Salem,USA,1
+Waterford?,USA,1
+East Lyme?,USA,1
+Norwich?,USA,1
+New York?,USA,1
+Petersham,USA,1
+Conesville,USA,1
+Lanesboro,USA,1
+Edgecomb,USA,1
+New London,"Unknown, U.S.A.",1
+Greensborgh,La?,1
+Phelpstown,USA,1
+Gouglstown?,Ny?,1
+Situate,USA,1
+Yorktown,USA,1
+Fairhaven Mass,USA,1
+Westport Mass,USA,1
+Carver,USA,1
+[Wausne],USA,1
+Nantucket,-,1
+Tiverton,-,1
+Cornwall,Unknown,1
+North Kingstown,Unknown,1
+Somers,Unknown,1
+Yor ?,Unknown,1
+Havensville,Unknown,1
+Lockport,Unknown,1
+Holderness,Unknown,1
+"East Chester, Ny",Unknown,1
+"Livingston, Columbus County, Ny",Unknown,1
+"Dover, Nj",Unknown,1
+"Nicholson, Pa",Unknown,1
+North Fairhaven,Unknown,1
+Middlegborough,Unknown,1
+"Cunningham, Ma",Unknown,1
+"Watson, Ny",Unknown,1
+"Snowhill, Me",Unknown,1
+"Newburyport, Ma",Unknown,1
+"Amherst, Ma",Unknown,1
+Europe,Unknown,1
+"Schaghtioke, Ny",Unknown,1
+"Kent Co., De",Unknown,1
+"Canterbury, Ct",Unknown,1
+"Windsor, Vt",Unknown,1
+"Rose, Ny",Unknown,1
+"Monson, Ma",Unknown,1
+"Cocymans, Ny",Unknown,1
+"Paris, Tenn",Unknown,1
+"Winchenden, Ma",Unknown,1
+West Saint Louis,Unknown,1
+Fayal/Nantucket,Unknown,1
+Nuku Hiva,Unknown,1
+"Madison, Nj",Unknown,1
+Fiji Islands,Unknown,1
+West Springfield,Unknown,1
+"Thorne, Germany",Unknown,1
+"New Britain, Ct",Unknown,1
+"Williamsburg, Va",Unknown,1
+Saint Jose,Unknown,1
+Norfolk Islands,Unknown,1
+Rochdale,Unknown,1
+"Wakefield, Ri",Unknown,1
+"Peacedale, Ri",Unknown,1
+Getnere?,Unknown,1
+"Wilmington, Ma",Unknown,1
+East Haddam Ct,Unknown,1
+"Cheshire, Ct",Unknown,1
+West Somerville,Unknown,1
+"Norwich, Ma",Unknown,1
+"Slatersville, Ri",Unknown,1
+"Leavenworth, Kansas",Unknown,1
+Pleasant Lake,Unknown,1
+East Harwich,Unknown,1
+"Berlin, Ct",Unknown,1
+"Washington, Ma",Unknown,1
+"Lisbon, Ct",Unknown,1
+"Tunbridge, Vt",Unknown,1
+"Pollet Or Bollett, Vt",Unknown,1
+"Windham, Ny",Unknown,1
+"West Vincent, Pa",Unknown,1
+Stafford Springs,Unknown,1
+"Middlebury, Ny",Unknown,1
+"Gilboa, Ny",Unknown,1
+"Buckston, Me",Unknown,1
+"Topsham, Vt",Unknown,1
+"Pricess Ann, Va",Unknown,1
+"Enfield, Ct",Unknown,1
+Pleasant Island,Unknown,1
+"Lowden Hill, Nh",Unknown,1
+"Tappan, Ny",Unknown,1
+"Palmer, Ny",Unknown,1
+"New Bern, Ny",Unknown,1
+"Morris, Ny",Unknown,1
+"Pocasset, Ma",Unknown,1
+"Spencer, Ma",Unknown,1
+Saint Eustatius,Unknown,1
+"Plymton, Ma",Unknown,1
+"North Tisbury, Ma",Unknown,1
+"Olean, Ny",Unknown,1
+"Long Plain, Ma",Unknown,1
+Calais,USA,1
+Haverstraw,USA,1
+Wicksburg,USA,1
+Odgensburg,USA,1
+Hopewell,USA,1
+Cambridge,USA,1
+Platthill,USA,1
+Glenville,USA,1
+West Troy,USA,1
+Eastford,USA,1
+Cutler,USA,1
+Unknown,Spain,1
+Unknown,Southern Island,1
+New Scotland,USA,1
+Unknown,Otaheite,1
+New York,German,1
+Oswego,USA,1
+Machias,USA,1
+Harpswell,USA,1
+Hairfield,USA,1
+Eastern Shore,USA,1
+Porter,USA,1
+Turin,USA,1
+Craftsbury,USA,1
+Hunter,USA,1
+Fayette,USA,1
+Dryden,USA,1
+Malden,USA,1
+Hampden,USA,1
+Erie,USA,1
+Hallsburg,USA,1
+"Plymouth, Il",Unknown,1
+Plattsburgh,Unknown,1
+"Lockport, Ny",Unknown,1
+"Doylestown, Pa",Unknown,1
+"Berry, Nh",Unknown,1
+Bellevue,Unknown,1
+"Yarmouth, Me",Unknown,1
+"Wayne, Pa",Unknown,1
+"Prue, Ny",Unknown,1
+"Greene, Me",Unknown,1
+"Berlin, Md",Unknown,1
+Lester,Unknown,1
+Schoharie,Unknown,1
+Hollis,Unknown,1
+Hansen,Unknown,1
+"Newbury, Nh",Unknown,1
+"Nashua, Ny",Unknown,1
+"Lewistown, Pa",Unknown,1
+"Closerick, Ny",Unknown,1
+"Brooklyn, Ct",Unknown,1
+"Adams, Ma",Unknown,1
+"Phenix, Ri",Unknown,1
+"Jefferson, Me",Unknown,1
+"Carlisle, Oh",Unknown,1
+Onondaga,Unknown,1
+Vineyard Grace,Unknown,1
+"Rock Island, Vt",Unknown,1
+Mache,Unknown,1
+"Dimock, Pa",Unknown,1
+Sag Harbour,USA,1
+Sharon,USA,1
+Accomack Co.,USA,1
+"Norwich, Ct",USA,1
+"Worcester, Ma",USA,1
+Halifax,USA,1
+Boston,Usa Naturalized,1
+Tioga,USA,1
+Murry,USA,1
+West Springfield,USA,1
+Clintonville,USA,1
+Glasbonbury,USA,1
+Blackstone?,USA,1
+Brighton,USA,1
+Williamsburg,USA,1
+Westport?,USA,1
+Germany,USA,1
+Geneva,USA,1
+Beverly,USA,1
+"Edenburg, Scotland",Unknown,1
+"Petersburg, Va",Unknown,1
+"Columbia, Nh",Unknown,1
+"Whitehall, Ny",Unknown,1
+"Veazie, Me",Unknown,1
+"Pepperell, Ma",Unknown,1
+"Kittery, Me",Unknown,1
+Goffstown,Unknown,1
+Bradford,Unknown,1
+"Mount Hope, Ny",Unknown,1
+"Cambridge, Ns",Unknown,1
+"Burke, Vt",Unknown,1
+"Andover, Ny",Unknown,1
+Salem,Frances,1
+Salem,Bartol?,1
+Boylston,USA,1
+Tuftonborough,USA,1
+Snow Hill,USA,1
+Murray Ny,USA,1
+New Bedford,Ireland,1
+Landuff,USA,1
+Marion,USA,1
+Shrewsbury,USA,1
+Cavandish,USA,1
+"Mount Morris, Ny",Unknown,1
+Pawfort,Unknown,1
+Caskill,Unknown,1
+St. Nicolas,Unknown,1
+New York,Spain,1
+Andover?,USA,1
+Boston,Germany,1
+Gracioza,Western Islands,1
+Wooster,Great Britain,1
+South Berwick,USA,1
+Bahia,South America,1
+"Williamsburg, Ny",USA,1
+Ophe?,West Canada?,1
+Easton,USA,1
+Worcester,Great Britain,1
+"Waterford, Ct",USA,1
+Otsego Co.,USA,1
+Blackstone,Unknown,1
+Orange,Unknown,1
+East River,Unknown,1
+Ritchfield,Unknown,1
+Mobile,Unknown,1
+Stratford,Unknown,1
+New Gloucester,Unknown,1
+Willittsburgh,Unknown,1
+Waterloo,Unknown,1
+Moravia,Unknown,1
+"Mexico, Tx",Unknown,1
+Kent Co.,Unknown,1
+Clyde,Unknown,1
+Astoria,Unknown,1
+"Round Ridge, Ny",Unknown,1
+Rockaway,Unknown,1
+"Jacobstown, Nj",Unknown,1
+"Governor, Ny",Unknown,1
+"Champion, Ny",Unknown,1
+Columbia,Unknown,1
+Ellsworth,Unknown,1
+Bellair,Unknown,1
+"Green County, Ny",Unknown,1
+"Salem, Nj",Unknown,1
+"Elergo, Oh",Unknown,1
+Winsted,Unknown,1
+Ware,Unknown,1
+Lafayette,Unknown,1
+Holliston,Unknown,1
+Greenwood,Unknown,1
+Delphi,Unknown,1
+Cocymans,Unknown,1
+Barnard,Unknown,1
+Agawam,Unknown,1
+Hillsborough,USA,1
+Wareham Mass,USA,1
+Flores,Azores (Portugal),1
+Bushwick,USA,1
+Hallowell,Maine,1
+Marblehaed,USA,1
+Raynham,Mass,1
+Bath Maine,USA,1
+Exeter,N. Hamp.,1
+Scituate,R. Isl.,1
+Stoughton,USA,1
+Orrington,USA,1
+Amherst,N. Hamp.,1
+Castine,Maine,1
+"New Bedford,Ms",USA,1
+New,USA,1
+Ireland/New Bedford,Unknown,1
+Simsbury,Unknown,1
+Chremont Haver ?,Unknown,1
+"Scruple, Oswego County, Ny",Unknown,1
+"Westminister, Ma",Unknown,1
+"Portsmouth, Ri",Unknown,1
+"Bridgewater, Ny",Unknown,1
+"Mamaroneck, Ny",Unknown,1
+"Tusin, Ny",Unknown,1
+"Ancrum, Ny",Unknown,1
+"Pennington, Ny",Unknown,1
+"Middlebury, Vt",Unknown,1
+"Danby, Ct",Unknown,1
+"Pownal, Me",Unknown,1
+"Sweden, Vt",Unknown,1
+Old Town,USA,1
+Pensacola,Unknown,1
+"Hebron, Ct",Unknown,1
+"Williamsport, Pa",Unknown,1
+"Columbia, So. America",Unknown,1
+"Canton, Me",Unknown,1
+Western Ny,Unknown,1
+Hubbards Corner,Unknown,1
+"Bow, Nh",Unknown,1
+"East Monsville, Nc",Unknown,1
+"Chester, Vt",Unknown,1
+"Amherst, Ma/ Dartmouth, Ma",Unknown,1
+London,Great Britain,1
+Columbia Co.,USA,1
+Oxford,Great Britain,1
+Drummond,USA,1
+Glen Cove,USA,1
+Bloomingdale,USA,1
+"South Hanly, Ma",USA,1
+Brandywine,USA,1
+Savoy Lake,USA,1
+Harrington,USA,1
+Monmouthshire,Great Britain,1
+"New London, Ct",Society Islands?,1
+Finland?,Ireland?,1
+Australia,Great Britain,1
+Toronto,Canada,1
+Quebec,Canada,1
+St. Charles,Central America,1
+Caldwell,USA,1
+Canton,USA,1
+Saco,USA,1
+New Haven,Europe,1
+Unknown,Europe,1
+North Mansfield,USA,1
+Bravo[,Cape De Verdes],1
+St. Nicholas,Cape De Verde,1
+Keyport,USA,1
+Hanson,USA,1
+Hanson,(Me.),1
+Berwick,Me.,1
+"Brutus, Ny",Unknown,1
+"Frankfort, Ny",Unknown,1
+"Burn, Ny",Unknown,1
+"Fort Edwards, Ny",Unknown,1
+"Lansing, Ny",Unknown,1
+"Batsturn, Nj",Unknown,1
+Prince George County,Unknown,1
+Wells,Unknown,1
+West Chester,USA,1
+Leipsic,USA,1
+Stockport,USA,1
+South Hampton,Unknown,1
+Otis,USA,1
+Platts Ferry?,USA,1
+"Mystic, Ct",USA,1
+Rhionsiew?,France,1
+S?,USA,1
+"Westerly, Ri",USA,1
+Whitestown,USA,1
+Frederick Co.,USA,1
+Oswego Co.,USA,1
+"Parsonsfield, Me",Unknown,1
+"Lime, Ct",Unknown,1
+"Lenox, Ny",Unknown,1
+"Hyde Park, Ny",Unknown,1
+"Fulton, Pa",Unknown,1
+"Cortlandville, Ny",Unknown,1
+"Clinton, Nj",Unknown,1
+"Winthrop, Me",Unknown,1
+"Windsor Locks, Ct",Unknown,1
+"Sheffield, Ct",Unknown,1
+"Rockaway, Nj",Unknown,1
+"Palmyra, Ny",Unknown,1
+"Groveland, Mich",Unknown,1
+"Greenborough, Vt",Unknown,1
+"Brewster, Ct",Unknown,1
+"Avon, Ny",Unknown,1
+"Guildhall, Vt",Unknown,1
+Saint Louis Mo,Unknown,1
+"Hanover, Prussia",Unknown,1
+"Dublin, Ireland",Unknown,1
+"Norwich City, Ct",Unknown,1
+"North Salem, Ny",Unknown,1
+"Long Island, Ny",Unknown,1
+"Danbury, Vt",Unknown,1
+"Central Falls, Ri",Unknown,1
+"Carlton, Vt",Unknown,1
+"Belmont, Nh",Unknown,1
+Azores Islands,Unknown,1
+"South Hampton, Li",Unknown,1
+"Samboanga, Java",Unknown,1
+New Bedford/Westport,Unknown,1
+Fogo Cape Verde,Unknown,1
+Falmouth/Sandwich,Unknown,1
+English Channel,Unknown,1
+"Handeville, Ma",Unknown,1
+"Berlin, Germany",Unknown,1
+Arica,Unknown,1
+Putnam,Unknown,1
+"Ashmont, Ma",Unknown,1
+"Vineyard Haven, Ma",Unknown,1
+"North Dartmouth, Ma",Unknown,1
+"Tahiti, Society Is",Unknown,1
+Loando,Unknown,1
+"Jamaica, West Indies",Unknown,1
+Valparaiso,Unknown,1
+"Cabenda, Africa [Angola]",Unknown,1
+"Marlboro, Ma",Unknown,1
+New Bedford,Gr. Britain,1
+Cape Da Verde,Island Of St. Vincent,1
+"Berkley, Ma",Unknown,1
+"Georgia, Vt",Unknown,1
+"Temple, Me",Unknown,1
+Foreigner,Unknown,1
+Portage,Unknown,1
+Philadelpphia,Unknown,1
+Warsaw,Unknown,1
+Davenport,Unknown,1
+"Fair Haven, Ma",Unknown,1
+Montville,Unknown,1
+"Essex, Ct.",Unknown,1
+"Ashford, Ct",Unknown,1
+"Steuben, Ny",Unknown,1
+West Hampton,USA,1
+Nantz,France,1
+Grafton,USA,1
+Fabius,USA,1
+East Pork,USA,1
+Callis,USA,1
+Ravenna,USA,1
+Newberg,USA,1
+Eaton,Unknown,1
+Armenia,Unknown,1
+"Wiscasset, Me",Unknown,1
+"Stepney, Ct",Unknown,1
+Sanbury,Unknown,1
+"Middletown Point, Ct",Unknown,1
+Guayaquil,Unknown,1
+Medford,USA,1
+Westport,United Sates,1
+Fairhaven,United Sates,1
+Kenebec,USA,1
+"Warsink, Ny",Unknown,1
+"Westchester County, Ny",Unknown,1
+"Summrstown, Ny",Unknown,1
+"Washington, Pa",Unknown,1
+"Rock River, Ohio",Unknown,1
+"Harlem, Ny",Unknown,1
+"Easton, Va",Unknown,1
+Orurute,Unknown,1
+Laneborough,Unknown,1
+Groves End,Unknown,1
+"Meadeville, Pa",Unknown,1
+"Mauntins, Ny",Unknown,1
+Scituate,Rode Island,1
+Unknown,African Black,1
+Unknown,Irishmon,1
+Westmorelond,Newhampshire,1
+Vermont,Vermont,1
+Eastport,Maine,1
+Newmarket,Newhampshire,1
+Somersworth,Newhampshire,1
+Hingham,Massachusetts,1
+(Rockaway)(Rothaway),Long Island,1
+New Boston,Newhampshire,1
+Wakefield,Newhampshire,1
+New Berry,Massachusetts,1
+"Delaware, Ny",Unknown,1
+"Norton, Me",Unknown,1
+"Leesville, Ny",Unknown,1
+"West Farm, Ny",Unknown,1
+"Wilton, Me",Unknown,1
+"West Springfield, Ma",Unknown,1
+"Sandy Hill, Ny",Unknown,1
+"Cornish, Me",Unknown,1
+"Burlington, Ny",Unknown,1
+"Boylston, Ny",Unknown,1
+"Macon, Ga",Unknown,1
+Caselton,Unknown,1
+"Bordingham, Me",Unknown,1
+"Bllain, Md",Unknown,1
+Germany/Philadelphia),Unknown,1
+"Strasbourg, France",Unknown,1
+"Mazatlan, Mex",Unknown,1
+Marquesas Islands,Unknown,1
+"Brookline, Nh",Unknown,1
+"Salisbury, Md",Unknown,1
+"Plainfiled, Ct",Unknown,1
+N. Bedford,USA,1
+City Of New York,USA,1
+New Bedford,Denmark,1
+"Westfield, Ct",Unknown,1
+"Wamajaunk, Pa",Unknown,1
+"Monticello, Ny",Unknown,1
+Dover Plains,Unknown,1
+"Canajoharie, Ny",Unknown,1
+"Topsham, Va",Unknown,1
+"Summitt, Ny",Unknown,1
+"Montezuma, Ny",Unknown,1
+"Johnstown, Ny",Unknown,1
+"Hudson Co, Ny",Unknown,1
+"Haynesville, Me",Unknown,1
+"Fredonia, Ny",Unknown,1
+"Burbeck, Pa",Unknown,1
+"Harvard, Ma",Unknown,1
+Society Islands,Unknown,1
+"Hanover, Germany",Unknown,1
+Sansbery,Unknown,1
+"Nahoo, Hawaii",Unknown,1
+Madeira Islands,Unknown,1
+Kittery,Unknown,1
+Yorktown,Unknown,1
+Leominster,Unknown,1
+"Appleton, Wi",Unknown,1
+Sheldon,Unknown,1
+"Durham, Me",Unknown,1
+"Dorchester County, Md",Unknown,1
+"Rome, Oneida County, Ny",Unknown,1
+"Sherburne, Ny",Unknown,1
+"Plainfield, Ct",Unknown,1
+"New Miffin, Ct",Unknown,1
+"Smithtown, Ny",Unknown,1
+"Huntington, Vt",Unknown,1
+"Haverstraw, Ny",Unknown,1
+Felkin,USA,1
+New York,Scotland,1
+New York,Switzerland,1
+German Flats,USA,1
+Peekskill,New York,1
+Sumberland[?],USA,1
+Lancester,USA,1
+Sunny? Plains,USA,1
+Rush,USA,1
+Old Warwick,USA,1
+Waltham,USA,1
+Kingston,Jamaica,1
+Onondaga,USA,1
+Woborn,USA,1
+Greensborough,USA,1
+Holden,USA,1
+Canterbury,USA,1
+Wellfleet,USA,1
+"Pomfret, Ct",USA,1
+Haventrea,Ny?,1
+Chemung Co.,USA,1
+Unknown,Western Islands,1
+Goshen,USA,1
+Norwich Falls,USA,1
+Clinton,USA,1
+Cape De Verde,Cape De Verde Islands,1
+Argyle,USA,1
+"Huntington, Pa",Germany,1
+New York,Ireland,1
+St. Joseph,Portugal,1
+East Hampton,Portugal,1
+Brava,USA,1
+Lansinburgh,USA,1
+Lima,USA,1
+Mauspiela?,USA,1
+Westchester,USA,1
+Chenango Bromacho,USA,1
+Zanesville,USA,1
+Upton,USA,1
+Northumberland,USA,1
+Dryden Co.,USA,1
+"West Newbury, Ma",Unknown,1
+"Suffolk Co., Ny",Unknown,1
+"Perry Co, Pa",Unknown,1
+"Marseilles, Ny",Unknown,1
+"Easton, Ma",Unknown,1
+"Alleghany, Pa",Unknown,1
+"Vienna, Ny",Unknown,1
+"Jericho, Ny",Unknown,1
+"Colchester, Ct",Unknown,1
+"Charlotte Hall, Md",Unknown,1
+"Billingham, Ma",Unknown,1
+"Barlow, Oh",Unknown,1
+Rockaway Nj,Unknown,1
+"Tallahassee, Fl",Unknown,1
+"Mendon, Ny",Unknown,1
+"Duansburg, Ny",Unknown,1
+"Turner, Me",Unknown,1
+Green Co.,Unknown,1
+"Orange Co., Ny",Unknown,1
+"Atlanta, Ga",Unknown,1
+"Alexandria, Ma",Unknown,1
+"York, Me",Unknown,1
+"West Poylston, Ma",Unknown,1
+"Parkman, Me",Unknown,1
+"Lebanon, Me",Unknown,1
+"Keeseville, Vt",Unknown,1
+West Stockbridge,Unknown,1
+"New Albany, Md",Unknown,1
+Key Port,Unknown,1
+"Dewitt, Ny",Unknown,1
+"Delhi, Ny",Unknown,1
+"Belfast, Ny",Unknown,1
+"Uncasville, Ct",Unknown,1
+"Suffield, Ct",Unknown,1
+"Chatham, Nb",Unknown,1
+"Warren, Ma",Unknown,1
+"Dana, Ma",Unknown,1
+"Strafford, Nh",Unknown,1
+"Alexander, Nh",Unknown,1
+"Stanford, Ct",Unknown,1
+"Moorestown, Nj",Unknown,1
+"Goshen, Ny",Unknown,1
+"Waltham, Ma",Unknown,1
+"Wallingford, Vt",Unknown,1
+"Sanford, Me",Unknown,1
+"Raynham, Ma",Unknown,1
+"Morica, Ny",Unknown,1
+"Milna, Ny",Unknown,1
+"Exeter, Pa",Unknown,1
+"Duncansville, Pa",Unknown,1
+"Amonia, Ct",Unknown,1
+"Allentown, Nj",Unknown,1
+Boston,Foreign,1
+Malta,Unknown,1
+"Kingston, Jamaica",Unknown,1
+Cohveton Ny,Unknown,1
+"Berlin, Russia",Unknown,1
+Saint Eustasius,Unknown,1
+Stonington,Cape De Verde Islands,1
+Little Egg Harbor,USA,1
+New Town,USA,1
+New York,Wales,1
+North Stonington,Great Britain,1
+Macon,USA,1
+Wayne Co.,USA,1
+"Noank, Ct",USA,1
+Brewster,USA,1
+Andover,USA,1
+Middlebrook,USA,1
+Townsend,USA,1
+Castine,USA,1
+Unknown,Africa,1
+Hallowel,USA,1
+New Bedford,Apprentiss,1
+Wareham,United States Of America,1
+Taunton,United States Of America,1
+New Bedford,Italy,1
+Boston,Scotland,1
+Baltimore,United States Of America,1
+Wiscasett,USA,1
+Boston,German,1
+Ellsworth,USA,1
+Hampstead,USA,1
+Unknown,(Waohoo),1
+"Columbia, South America",Unknown,1
+"New London, Nh",Unknown,1
+Wethersfield,Unknown,1
+"Lowelll, Ma",Unknown,1
+Classville,Unknown,1
+"Bakersfield, Vt",Unknown,1
+"White Plains, Ny",Unknown,1
+Rock Island,Unknown,1
+"Portersville, Ct",Unknown,1
+"Merrimack, Nh",Unknown,1
+Kent Co. Md,Unknown,1
+Sing Sing,USA,1
+Sterling,USA,1
+New York,Usa (Naturalized),1
+Cape Cod,USA,1
+St. Augustine,USA,1
+Kingston,Ny,1
+Meredith,USA,1
+Jacksonville,USA,1
+Coeymans,USA,1
+"Bristol, Ri",USA,1
+Glastonbury?,USA,1
+?,Unknown,1
+Galveston,USA,1
+Mew Bedford,Unknown,1
+(New Bedford),USA,1
+Chilmar,USA,1
+Windsor Connt.,USA,1
+Somersett,USA,1
+[Kingston,N.J.],1
+New Bedford,Portuguese,1
+Bonivesta,Portuguese,1
+Harvard,USA,1
+Leverett,USA,1
+Charlston,S.C.,1
+[Keen],USA,1
+Harmony,USA,1
+Augusta,Ga.,1
+Coblers Hill,USA,1
+"Brainard, Ny",Unknown,1
+"Boyleston, Ma",Unknown,1
+Stranburg,Unknown,1
+"Nuremburg, Germany",Unknown,1
+"Lancaster, England",Unknown,1
+"Gloucester, Nj",Unknown,1
+"Cumming, Ga",Unknown,1
+"Chester, Pa",Unknown,1
+Saint Marys,Unknown,1
+"Mashpe, Ma",Unknown,1
+Indian Territory,Unknown,1
+Dresden,Unknown,1
+"Newton, Nh",Unknown,1
+"Conway, Ma",Unknown,1
+Usa,Great Britain,1
+New London,Us,1
+Irishman,Unknown,1
+"Charleston, Ri",USA,1
+East Windsor,USA,1
+Wiscasset,USA,1
+Alva,Maine,1
+New York,Great Lituratre,1
+Bordeaux,France,1
+Ridgefield,USA,1
+Newmarket,USA,1
+Brickfield,USA,1
+New Bedford,(English),1
+Albany Nyork,USA,1
+New Bedford,English,1
+Farmington Me.,USA,1
+Portsmith R.I.,USA,1
+Albany N.Y.,USA,1
+West Bridgewater,United States Of America,1
+Tiverton R.I.,United States Of America,1
+Morristown,USA,1
+East New York,USA,1
+Fair Haven Mass,USA,1
+Topsham Maine,USA,1
+Cork,Ireland,1
+Industry,Maine,1
+"Hallowell, Maine",USA,1
+Chilmark Mass,USA,1
+Granville,USA,1
+Mashpee,Mass,1
+Lexington,Mass,1
+Taunton,Mass,1
+Edgartown Mass,USA,1
+[Bedford] Mass,USA,1
+Exeter N. Hampshire,USA,1
+Little Compton R.I.,USA,1
+New Bedford Mass,Portugal,1
+Baltimore Md,USA,1
+Sandwich Mass,USA,1
+Billerica Mass,USA,1
+Saugus Mass,USA,1
+Tyingsboro Mass,USA,1
+Cumberland Ri,USA,1
+Portland Maine,USA,1
+Deer Isle Maine,USA,1
+Woodstock,Conn,1
+Holmes Hole Vinyd,USA,1
+Chatham Mass,USA,1
+Dartmouth Mass,USA,1
+Lyndborough Nh,USA,1
+S. Kingston Ri,USA,1
+St Geoerge,Maine,1
+Sheffield,Mass,1
+Dover,Maine,1
+Tiverton Ri,USA,1
+Lancaster,Penn,1
+Hudson Ny,USA,1
+Holmes Hole [-],USA,1
+Fayal,Portugal,1
+Fayal,USA,1
+Stoddard N.H.,USA,1
+Greenwich Mass,USA,1
+Thorton Nh,USA,1
+Embden,USA,1
+Gardner,USA,1
+New Bedford,France,1
+Wells River,Unknown,1
+"Newfoundland, Nj",Unknown,1
+Macon,Unknown,1
+Machias,Unknown,1
+"Big Grove, Il",Unknown,1
+"Accomac Co., Wa",Unknown,1
