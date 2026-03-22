@@ -1,0 +1,53 @@
+{
+  "generation_id": "AZ-003-TRIO",
+  "project": "Adalympics-P2: Whaling History Reconstruction",
+  "target_engine": "Nano Banana / Flux 2 / Midjourney V8",
+  "aspect_ratio": "16:9",
+  "historical_context": {
+    "era": "Golden Age of Whaling, mid-19th Century",
+    "location": "Open Atlantic in a cedar whaleboat, high-seas action",
+    "atmosphere": "Adrenaline, danger, visceral struggle, wet and cold"
+  },
+  "crew_profiles": {
+    "lead_subject": {
+      "name": "The Azorean Boatsteerer",
+      "age": 20,
+      "features": "Deep-set dark eyes, wind-whipped dark hair, dark skin with uneven tan lines and glistening seawater",
+      "action": "Standing at the bow, unposed, intensely focused on something out of frame, hands gripping a harpoon",
+      "attire": "Open-collar linen shirt with visible repairs, heavy with water, rough salt-stained trousers"
+    },
+    "secondary_subject": {
+      "name": "The First Oarsman",
+      "age": 25,
+      "features": "Tensed neck muscles, sun-baked shoulders, sweat-soaked hair sticking to forehead",
+      "action": "Caught mid-stroke, rowing with exhaustion, mouth slightly open for air",
+      "attire": "Tattered wool vest, bare-armed, showing real skin blemishes and sunspots"
+    },
+    "tertiary_subject": {
+      "name": "The Second Oarsman",
+      "age": 22,
+      "features": "Squinting heavily against sea spray, youthful face but hardened by labor",
+      "action": "Strained effort, bracing against a wave, partially obscured by splashing water",
+      "attire": "Rough-spun homespun shirt with rolled-up, uneven sleeves"
+    }
+  },
+  "cinematography": {
+    "camera_lens": "Primitive action lens, equivalent to 35mm, high spherical aberration, natural motion blur on the oars and water",
+    "lighting": "Harsh, uncorrected midday sun with aggressive water reflections, deep shadows, lens flare from seawater on the glass",
+    "composition": "Dynamic POV from another whaleboat, unstable framing, chaotic action shot, center focus with blurred edges",
+    "angle": "Water-level POV, aggressive and visceral"
+  },
+  "aesthetic_specs": {
+    "textures": "Splashing seawater with realistic droplets, wet cedar wood, oxidized harpoon iron, oily skin, wet fabric clinging to bodies",
+    "color_palette": "Stormy Atlantic grey-blue, dark skin tones, natural cedar browns, frothy sea-foam white",
+    "film_style": "Authentic Wet Plate Collodion on glass, organic chemical artifacts at the edges, metallic silver highlights, gritty physical texture, dust spots"
+  },
+  "master_prompt": "A visceral, candid mid-19th century action-photograph captured on a Wet Plate Collodion glass negative. The scene shows three Azorean whalers in a small cedar boat amidst a rough Atlantic sea. The 20-year-old lead Boatsteerer is standing at the bow, his dark skin wet and glistening, eyes locked on a target. Two muscular oarsmen are caught in a moment of intense, unposed physical struggle behind him. The image shows realistic motion blur on the moving oars and splashing water. Shot with a primitive wide lens, it exhibits natural optical imperfections like lens haze and edge blurring. The lighting is harsh and natural, with realistic shadows and sun-flare. This is a gritty historical artifact, completely free of digital smoothness or artificial AI symmetry.",
+  "negative_prompt": "ai-generated, digital art, 3d, rendering, smooth skin, symmetrical face, studio lighting, clean clothes, plastic, life jackets, modern boat, vibrant colors, sharpened, watermark, text",
+  "parameters": {
+    "stylize": 500,
+    "chaos": 35,
+    "weird": 60,
+    "resolution": "native 2K"
+  }
+}

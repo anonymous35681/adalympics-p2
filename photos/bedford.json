@@ -1,0 +1,53 @@
+{
+  "generation_id": "NB-001-TRIO",
+  "project": "Adalympics-P2: Whaling History Reconstruction",
+  "target_engine": "Nano Banana / Flux 2 / Midjourney V8",
+  "aspect_ratio": "16:9",
+  "historical_context": {
+    "era": "Mid-19th Century, circa 1860",
+    "location": "Deck of a New Bedford Whaling Ship, North Atlantic",
+    "atmosphere": "Morning mist, salty air, industrial maritime labor"
+  },
+  "crew_profiles": {
+    "lead_subject": {
+      "name": "The New Bedford Seaman",
+      "age": 21,
+      "features": "Messy black hair, blue eyes, uneven skin texture with salt-crust and fine wrinkles around eyes",
+      "pose": "Direct candid look, slight squint, unposed, unsmiling",
+      "attire": "Rough wool indigo peacoat, pilled texture, faded neckerchief, stained wool cap"
+    },
+    "secondary_subject": {
+      "name": "The Veteran Whaler",
+      "age": 55,
+      "features": "Deep-set squinting eyes, tangled grey beard, sun-leathered skin, broken nose",
+      "action": "Standing in profile, looking away, holding a short wooden pipe with a wisp of smoke",
+      "attire": "Canvas apron with oil stains over a coarse hand-sewn flannel shirt"
+    },
+    "tertiary_subject": {
+      "name": "The Cabin Boy",
+      "age": 14,
+      "features": "Lean, smudged face, chapped lips, tired expression",
+      "action": "Dragging a heavy wooden bucket in the soft-focus background",
+      "attire": "Overly large, worn-out sweater, visible patches on the sleeves"
+    }
+  },
+  "cinematography": {
+    "camera_lens": "Vintage Daguerreotype bellows camera, 100mm focal length, significant edge-to-edge softness",
+    "lighting": "Harsh, low-angle morning sun partially diffused by heavy sea fog, creating complex flare and lens haze",
+    "composition": "Asymmetrical, candid street-photography style, slightly off-balance to simulate ship motion",
+    "angle": "Eye-level, intimate foreground focus"
+  },
+  "aesthetic_specs": {
+    "textures": "Wet oak wood grain, rusted iron deck hardware with flaking paint, coarse wool fibers, skin pores clogged with sweat and oil, authentic film scratches",
+    "color_palette": "Weathered greys, deep indigo-blue, charcoal, sun-bleached browns, oxidized metal blacks",
+    "film_style": "1860s Daguerreotype, silver-nitrate metallic sheen, authentic chemical staining, light leak on the left edge, micro-cracks in the emulsion"
+  },
+  "master_prompt": "A candid, gritty 1860s Daguerreotype photograph of three whalers on the deck of a wooden ship. The 21-year-old lead Seaman is in the foreground, his blue eyes narrowed against the sun, his light skin showing real salt-spray residue and oily texture. His black hair is damp and messy. Beside him, a 55-year-old whaler with a grizzled grey beard is caught in a natural profile, looking away. A cabin boy is seen as a blurry, unposed figure in the background. The scene is shot with an authentic mid-19th century bellows camera, resulting in natural lens haze, edge softness, and uneven exposure. The wooden deck is realistically wet and dirty with flaking paint and rust. The image is a genuine historical document, avoiding all digital smoothness and artificial symmetry.",
+  "negative_prompt": "ai-generated, rendering, digital art, 3d, smoothed skin, symmetrical face, studio lighting, clean clothes, vibrant colors, neon, plastic, modern technology, sharpened, watermark, text",
+  "parameters": {
+    "stylize": 400,
+    "chaos": 25,
+    "weird": 30,
+    "resolution": "native 2K"
+  }
+}

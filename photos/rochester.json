@@ -1,0 +1,53 @@
+{
+  "generation_id": "RC-002-TRIO",
+  "project": "Adalympics-P2: Whaling History Reconstruction",
+  "target_engine": "Nano Banana / Flux 2 / Midjourney V8",
+  "aspect_ratio": "4:5 (Cabinet Card)",
+  "historical_context": {
+    "era": "Late Victorian, circa 1880",
+    "location": "Quarterdeck of a Whaling Vessel, Stern View",
+    "atmosphere": "Professional tension, maritime hierarchy, overcast sky"
+  },
+  "crew_profiles": {
+    "lead_subject": {
+      "name": "The Rochester 3rd Mate",
+      "age": 21,
+      "features": "Neatly combed brown hair, sharp black eyes, determined jawline, slight skin asymmetricality",
+      "action": "Gripping a brass sextant with stained fingers, looking toward the horizon",
+      "attire": "Structured officer's cap with worn edges, wool peacoat, high-collared shirt with minor fraying"
+    },
+    "secondary_subject": {
+      "name": "The 1st Mate",
+      "age": 48,
+      "features": "Deep-set stern eyes, unkempt sideburns, weathered skin with visible pores and sun damage",
+      "action": "Distracted, looking at a sea chart with a slight furrow in his brow",
+      "attire": "Heavy navy wool officer's coat, oxidized brass buttons with green patina"
+    },
+    "tertiary_subject": {
+      "name": "The Ship's Carpenter",
+      "age": 35,
+      "features": "Muscular build, sweat-streaked forehead, sawdust caught in a thick beard",
+      "action": "Passing in the background, out-of-focus, carrying a heavy mallet",
+      "attire": "Dirty leather apron, coarse striped shirt with visible weaving texture"
+    }
+  },
+  "cinematography": {
+    "camera_lens": "Petzval portrait lens, 150mm equivalent, authentic optical aberrations at the edges",
+    "lighting": "Natural overcast sky, flat but moody top-lighting, realistic shadows under the eyes and chin",
+    "composition": "Candid maritime scene, accidental framing, shallow depth of field, center focus",
+    "angle": "Eye-level, captured from a slightly unstable deck"
+  },
+  "aesthetic_specs": {
+    "textures": "Oxidized brass, heavy coarse wool with pilling, authentic skin oil, dried salt on wood, yellowed parchment",
+    "color_palette": "Muted indigo, dull brass, charcoal, cream-white, charcoal-grey, sepia undertones",
+    "film_style": "1880s Albumin print on cabinet card, uneven chemical development, subtle silver mirroring, micro-scratches, authentic paper grain"
+  },
+  "master_prompt": "An authentic, unposed 1880s Cabinet Card photograph of three whaling crew members on a ship's quarterdeck. The image is a genuine historical document, showing the 21-year-old 3rd Mate from Rochester in the foreground, his brown hair slightly messy under his cap, blacks eyes focused on the horizon as he holds a tarnished brass sextant. Beside him, an older 1st Mate is caught mid-conversation, his weathered face showing real sun damage and deep pores. A burly carpenter is visible in the blurry background. The lighting is flat and grey from an overcast sky, creating realistic shadows. The image exhibits authentic period-correct optical flaws: slight motion blur on the background figure, subtle chromatic aberration from the Petzval lens, and uneven sepia toning. The skin has a natural, oily texture with visible dirt and imperfections. No digital smoothness.",
+  "negative_prompt": "ai-generated, digital art, rendering, 3d, smooth skin, symmetrical face, perfect lighting, vibrant colors, sharpened, plastic, clean clothes, studio lighting, modern camera, watermark, text",
+  "parameters": {
+    "stylize": 300,
+    "chaos": 15,
+    "weird": 10,
+    "resolution": "native 2K"
+  }
+}
