@@ -73,9 +73,39 @@ def generate():
         "Range",
     ]
 
+    # 3. Дополнительные ответы на вопросы
+    # — сколько матросов было из ферм
+    farm_mask = (
+        df["birthplace"].str.contains("farm", case=False, na=False)
+        | df["res_city"].str.contains("farm", case=False, na=False)
+        | df["remarks"].str.contains("farm", case=False, na=False)
+    )
+    farm_count = df[farm_mask].shape[0]
+
+    # — сколько темнокожих в общей сложности из всех матросов
+    dark_skin_labels = ["dark", "black", "colored", "mulatto", "negro", "brown"]
+    dark_skin_mask = df["skin"].str.lower().str.strip().isin(dark_skin_labels)
+    dark_skin_count = df[dark_skin_mask].shape[0]
+
+    # — какой средний возраст помощника капитана/самого капитанов
+    officer_ranks = ["Master", "1st Mate", "2nd Mate", "3rd Mate", "4th Mate"]
+    officers = df[df["rank"].isin(officer_ranks)].copy()
+    officers["age"] = pd.to_numeric(officers["age"], errors="coerce")
+    avg_officer_age = officers["age"].mean()
+
     # Формирование отчета
     report = []
     report.append("# Анализ распределений: Возраст и Рост китобоев\n")
+
+    report.append("## 0. Ответы на ключевые вопросы")
+    report.append(f"- **Сколько матросов было из ферм:** {farm_count}")
+    report.append(
+        f"- **Сколько темнокожих матросов в общей сложности:** {dark_skin_count}"
+    )
+    report.append(
+        f"- **Средний возраст командного состава (капитаны и помощники):** {avg_officer_age:.1f} лет\n"
+    )
+
     report.append(
         "> **Методология:** Мы отказались от простых средних в пользу анализа структуры популяций. "
         "Среднее значение может быть одинаковым, но за ним скрываются разные социальные модели.\n"
