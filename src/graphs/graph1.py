@@ -250,9 +250,32 @@ def run():
     usa_df = df[df["location_type"] == "USA"]
     world_df = df[df["location_type"] == "World"]
 
-    # Top 20 cities by count
-    top_20_usa_cities = usa_df["clean_city"].value_counts().head(20).index
-    top_20_world_cities = world_df["clean_city"].value_counts().head(20).index
+    # Target cities requested by the user
+    target_usa = [
+        "New London",
+        "New York",
+        "Salem",
+        "Nantucket",
+        "Albany",
+        "Philadelphia",
+    ]
+    target_world = ["Germany"]
+
+    def get_top_cities(subset_df, targets, top_n=20):
+        # Initial top list by count
+        top_list = subset_df["clean_city"].value_counts().head(top_n).index.tolist()
+        # Add requested cities if missing
+        for target in targets:
+            if (
+                target not in top_list
+                and not subset_df[subset_df["clean_city"] == target].empty
+            ):
+                top_list.append(target)
+        return top_list
+
+    # Top cities for each location type
+    top_20_usa_cities = get_top_cities(usa_df, target_usa, 20)
+    top_20_world_cities = get_top_cities(world_df, target_world, 20)
 
     def get_city_stats(subset_df, cities):
         stats = []
@@ -279,7 +302,7 @@ def run():
 
     # Titles
     main_title = "Китобои-американцы были моложе нанятых из других стран"
-    subtitle = "Самый распространённый возраст среди участников экспедиций из портов США (выбраны ТОП-20 мест по числу выходцев)"
+    subtitle = "Самый распространённый возраст среди участников экспедиций из портов США\n(выбраны ТОП-20 мест по числу выходцев)"
 
     fig.suptitle(
         main_title,
@@ -293,7 +316,7 @@ def run():
     )
     plt.text(
         0.5,
-        0.89,
+        0.87,
         subtitle,
         fontsize=14,
         ha="center",
@@ -315,7 +338,7 @@ def run():
         style="italic",
     )
 
-    plt.tight_layout(rect=(0, 0.03, 1, 0.86))
+    plt.tight_layout(rect=(0, 0.03, 1, 0.84))
     # Explicitly adjust space between subplots
     plt.subplots_adjust(wspace=0.25)
 

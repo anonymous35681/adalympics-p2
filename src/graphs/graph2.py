@@ -4,20 +4,27 @@ import pandas as pd
 from loguru import logger
 
 from config import DPI, FORMAT, OUTPUT_DIR, ROOT_DIR
-from style import BLUE, GRAY, RED, WHITE, YELLOW, apply_global_style
+from style import BLUE, GRAY, GREEN, WHITE, YELLOW, apply_global_style
 
 
-def get_mode(series):
-    """Calculate the mode of a series, ignoring empty strings and NaNs."""
+def get_mode(series, is_numeric=False):
+    """Calculate the mode of a series, ignoring empty strings and NaNs, normalized."""
     m = series.dropna()
     m = m[m.astype(str).str.strip() != ""]
     if m.empty:
         return "N/A"
-    return m.mode().iloc[0]
+
+    if is_numeric:
+        return m.mode().iloc[0]
+
+    # Normalize categories to avoid "blue" vs "Blue"
+    m = m.astype(str).str.strip().str.lower()
+    mode_val = m.mode().iloc[0]
+    return mode_val.capitalize()
 
 
 def run():
-    logger.info("Generating Graph 2: Multidimensional Whaler Profiles (Dynamic)")
+    logger.info("Generating Graph 2: Multidimensional Whaler Profiles (Categorized)")
 
     # Load data
     data_path = ROOT_DIR / "data" / "raw" / "original_crew_dataset.csv"
@@ -33,10 +40,18 @@ def run():
     df["height_cm"] = (df["height_feet"] * 30.48) + (df["height_inches"] * 2.54)
     df["origin"] = df["birthplace"].fillna(df["res_city"])
 
-    # Define locations and features
-    locations = {
+    # Define target cities with color groupings
+    targets = {
+        # Centers (Blue)
         "New Bedford": {"filter": lambda x: str(x) == "New Bedford", "color": BLUE},
-        "Rochester": {"filter": lambda x: str(x) == "Rochester", "color": RED},
+        "New London": {"filter": lambda x: str(x) == "New London", "color": BLUE},
+        "New York": {"filter": lambda x: str(x) == "New York", "color": BLUE},
+        # Regional Travelers (Green)
+        "Albany": {"filter": lambda x: str(x) == "Albany", "color": GREEN},
+        "Philadelphia": {"filter": lambda x: str(x) == "Philadelphia", "color": GREEN},
+        "Rochester": {"filter": lambda x: str(x) == "Rochester", "color": GREEN},
+        # Foreigners (Yellow)
+        "Germany": {"filter": lambda x: str(x) == "Germany", "color": YELLOW},
         "Azores": {
             "filter": lambda x: any(
                 island.lower() in str(x).lower()
@@ -50,36 +65,91 @@ def run():
         "Рост (см)": "height_cm",
         "Цвет кожи": "skin",
         "Цвет волос": "hair",
+        "Цвет глаз": "eye",
         "Должность": "rank",
     }
 
-    # Calculate profiles dynamically
-    profiles = []
-    for name, config in locations.items():
-        subset = df[df["origin"].apply(config["filter"])].copy()
-        profile = {"name": name, "color": config["color"]}
-        for label, col in features.items():
-            profile[label] = get_mode(subset[col])
-        profiles.append(profile)
+    # 1. Identify Top 20 ports for background context
+    valid_origins = df[
+        ~df["origin"]
+        .fillna("")
+        .str.lower()
+        .isin(["", "unknown", "not stated", "-", "`"])
+    ]
+    top_20_origins = valid_origins["origin"].value_counts().head(20).index.tolist()
 
-    # Prepare axis information (types, ranges, categories)
+    # 2. Calculate profiles for all top 20 + targets
+    all_profiles = []
+
+    # Track categories for axes
+    cat_values = {label: set() for label in features if label != "Рост (см)"}
+    heights = []
+
+    # First, process target profiles
+    for name, config in targets.items():
+        subset = df[df["origin"].apply(config["filter"])].copy()
+        profile = {
+            "name": name,
+            "color": config["color"],
+            "is_target": True,
+            "linewidth": 4,
+            "alpha": 0.8,
+        }
+        for label, col in features.items():
+            is_num = label == "Рост (см)"
+            val = get_mode(subset[col], is_numeric=is_num)
+            profile[label] = val
+            if is_num:
+                if val != "N/A":
+                    heights.append(val)
+            else:
+                if val != "N/A":
+                    cat_values[label].add(val)
+        all_profiles.append(profile)
+
+    # Second, process background profiles (Top 20 ports not already in targets)
+    target_names = list(targets.keys())
+    for origin in top_20_origins:
+        if origin in target_names:
+            continue
+
+        subset = df[df["origin"] == origin].copy()
+        profile = {
+            "name": origin,
+            "color": "#DDDDDD",
+            "is_target": False,
+            "linewidth": 1.0,
+            "alpha": 0.2,
+        }
+        for label, col in features.items():
+            is_num = label == "Рост (см)"
+            val = get_mode(subset[col], is_numeric=is_num)
+            profile[label] = val
+            if is_num:
+                if val != "N/A":
+                    heights.append(val)
+            else:
+                if val != "N/A":
+                    cat_values[label].add(val)
+        all_profiles.append(profile)
+
+    # 3. Prepare axis info
     axes_info = {}
     for label, _col in features.items():
-        vals = [p[label] for p in profiles if p[label] != "N/A"]
         if label == "Рост (см)":
-            # Numerical axis with padding
-            h_min = min(vals) if vals else 160
-            h_max = max(vals) if vals else 180
+            h_min = min(heights) if heights else 160
+            h_max = max(heights) if heights else 180
             axes_info[label] = {"type": "num", "min": h_min - 2, "max": h_max + 2}
         else:
-            # Categorical axis with sorted unique values
-            unique_cats = sorted(set(vals))
-            axes_info[label] = {"type": "cat", "cats": unique_cats}
+            # Sort categories for cleaner lines
+            sorted_cats = sorted(cat_values[label])
+            if not sorted_cats:
+                sorted_cats = ["N/A"]
+            axes_info[label] = {"type": "cat", "cats": sorted_cats}
 
     def normalize(val, info):
-        """Map values to a 0-1 range for consistent plotting across multiple axes."""
         if val == "N/A":
-            return 0.5
+            return 0.0  # Bottom for N/A
         if info["type"] == "num":
             return (val - info["min"]) / (info["max"] - info["min"])
         cats = info["cats"]
@@ -89,68 +159,88 @@ def run():
 
     # Plotting
     apply_global_style()
-    fig, ax = plt.subplots(figsize=(14, 8))
+    fig, ax = plt.subplots(figsize=(20, 12))
     fig.patch.set_facecolor(WHITE)
 
-    n_axes = len(features)
-    x_indices = np.arange(n_axes)
     feature_labels = list(features.keys())
+    x_indices = np.arange(len(feature_labels))
 
-    # Draw vertical axes
+    # Draw axes
     for i in x_indices:
-        ax.axvline(i, color=GRAY, linewidth=0.8, alpha=0.5, zorder=1)
+        ax.axvline(i, color=GRAY, linewidth=0.8, alpha=0.3, zorder=1)
 
-    # Sort profiles to handle label stacking on the first axis
-    sorted_profiles = sorted(
-        profiles,
+    # Plot Background Profiles first
+    for p in [prof for prof in all_profiles if not prof["is_target"]]:
+        y_vals = [normalize(p[label], axes_info[label]) for label in feature_labels]
+        ax.plot(
+            x_indices,
+            y_vals,
+            color=p["color"],
+            linewidth=p["linewidth"],
+            alpha=p["alpha"],
+            zorder=2,
+        )
+
+    # Plot Target Profiles on top
+    target_profiles = sorted(
+        [prof for prof in all_profiles if prof["is_target"]],
         key=lambda p: normalize(p[feature_labels[0]], axes_info[feature_labels[0]]),
     )
-    last_y = -1.0
 
-    for p in sorted_profiles:
+    # Stacking logic for labels
+    y_orig = [
+        normalize(p[feature_labels[0]], axes_info[feature_labels[0]])
+        for p in target_profiles
+    ]
+    y_adj = y_orig.copy()
+    min_sep = 0.05
+    for i in range(1, len(y_adj)):
+        if y_adj[i] < y_adj[i - 1] + min_sep:
+            y_adj[i] = y_adj[i - 1] + min_sep
+    if y_adj[-1] > 1.0:
+        y_adj[-1] = 1.0
+        for i in range(len(y_adj) - 2, -1, -1):
+            if y_adj[i] > y_adj[i + 1] - min_sep:
+                y_adj[i] = y_adj[i + 1] - min_sep
+
+    for idx, p in enumerate(target_profiles):
         y_vals = [normalize(p[label], axes_info[label]) for label in feature_labels]
-
-        # Stacking logic for labels
-        y_label = y_vals[0]
-        if abs(y_label - last_y) < 0.05:
-            y_label += 0.04
-        last_y = y_label
+        y_label = y_adj[idx]
 
         ax.plot(
             x_indices,
             y_vals,
             color=p["color"],
-            linewidth=5,
-            alpha=0.8,
-            zorder=3,
+            linewidth=p["linewidth"],
+            alpha=p["alpha"],
+            zorder=4,
             marker="o",
-            markersize=12,
+            markersize=8,
             markeredgecolor="white",
-            markeredgewidth=1.5,
+            markeredgewidth=1,
         )
 
         ax.text(
-            x_indices[0] - 0.1,
+            x_indices[0] - 0.2,
             y_label,
             p["name"],
             color=p["color"],
             ha="right",
             va="center",
             fontweight="bold",
-            fontsize=14,
+            fontsize=20,
         )
 
-    # Style axes
+    # Axis Labels and Ticks
     ax.set_xticks(x_indices)
-    ax.set_xticklabels(feature_labels, fontsize=14, fontweight="bold", color=GRAY)
+    ax.set_xticklabels(feature_labels, fontsize=21, fontweight="bold", color=GRAY)
     ax.set_yticks([])
-    ax.set_ylim(-0.1, 1.1)
+    ax.set_ylim(-0.05, 1.05)
 
     # Add tick labels for each vertical axis
     for i, label in enumerate(feature_labels):
         info = axes_info[label]
         if info["type"] == "num":
-            # Display 5 sample values on numerical axis
             ticks = np.linspace(info["min"], info["max"], 5)
             for val in ticks:
                 pos = (val - info["min"]) / (info["max"] - info["min"])
@@ -159,12 +249,12 @@ def run():
                     pos,
                     f"{val:.1f}",
                     color=GRAY,
-                    fontsize=11,
+                    fontsize=12,
                     va="center",
                     bbox={
                         "facecolor": "white",
                         "edgecolor": "none",
-                        "alpha": 0.7,
+                        "alpha": 0.6,
                         "pad": 0.5,
                     },
                 )
@@ -177,12 +267,12 @@ def run():
                     pos,
                     cat,
                     color=GRAY,
-                    fontsize=11,
+                    fontsize=12,
                     va="center",
                     bbox={
                         "facecolor": "white",
                         "edgecolor": "none",
-                        "alpha": 0.7,
+                        "alpha": 0.6,
                         "pad": 0.5,
                     },
                 )
@@ -190,48 +280,56 @@ def run():
     for spine in ax.spines.values():
         spine.set_visible(False)
 
-    # Dynamic Titles
-    main_title = "Профили китобоев: моряки из New Bedford и Rochester схожи по типажу,\nв то время как экипажи с Azores выделяются иным цветом кожи и рангами"
-    subtitle = "Самые распространённые физические характеристики (рост, цвет кожи, волос) и должности среди жителей трёх портовых городов"
+    # Titles
+    main_title = (
+        "Самые частые герои: сравнение профилей выходцев из ключевых центров найма"
+    )
+    subtitle = (
+        "Типичные характеристики (рост, цвет кожи, глаз, волос) и должности на судне"
+    )
 
     fig.suptitle(
         main_title,
-        fontsize=20,
+        fontsize=33,
         fontweight="bold",
         x=0.5,
         y=0.96,
         ha="center",
+        va="top",
         color=GRAY,
     )
     plt.text(
         0.5,
-        0.89,
+        0.91,
         subtitle,
-        fontsize=14,
+        fontsize=22,
         ha="center",
         va="center",
         transform=fig.transFigure,
         color=GRAY,
     )
 
-    footer_text = "Источник: Исторические данные об экипажах китобойных судов (XIX - начало XX века). Цвет волос использован вместо цвета глаз из-за отсутствия данных."
+    footer_text = (
+        "Источник: Исторические данные об экипажах китобойных судов (XIX - начало XX века). "
+        "Серым цветом показаны профили ТОП-20 портов для контекста."
+    )
     plt.text(
-        0.01,
-        0.01,
+        0.02,
+        0.02,
         footer_text,
-        fontsize=9,
+        fontsize=15,
         ha="left",
         transform=fig.transFigure,
         color=GRAY,
         style="italic",
     )
 
-    plt.tight_layout(rect=(0.05, 0.05, 0.95, 0.86))
+    plt.tight_layout(rect=(0.1, 0.05, 0.95, 0.88))
 
     output_path = OUTPUT_DIR / f"graph2.{FORMAT}"
     plt.savefig(output_path, dpi=DPI, bbox_inches="tight")
     plt.close()
-    logger.success(f"Graph 2 saved to {output_path}")
+    logger.success(f"Graph 2 (Categorized) saved to {output_path}")
 
 
 if __name__ == "__main__":
